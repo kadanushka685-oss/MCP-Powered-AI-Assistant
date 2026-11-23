@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --ink: #0E131B;
+  --panel: #151C27;
+  --raised: #1C2533;
+  --line: #263244;
+  --text: #E6EAF0;
+  --muted: #8C99AB;
+  --copper: #D99A4E;
+  --steel: #6C9BD2;
+  --good: #5CC59A;
+  --bad: #E8707A;
+}
+
+html, body, [class*="css"], .stMarkdown, button, input, textarea {
+  font-family: 'Manrope', 'Segoe UI', system-ui, sans-serif !important;
+}
+.stApp { background: var(--ink); }
+.block-container { padding-top: 2.2rem; padding-bottom: 4rem; max-width: 1280px; }
+#MainMenu, footer { visibility: hidden; }
+
+/* ---------- sidebar ---------- */
+[data-testid="stSidebar"] { background: var(--panel); border-right: 1px solid var(--line); }
+.brand { padding: .2rem 0 1rem 0; }
+.brand-name { font-size: 1.05rem; font-weight: 800; color: var(--text); line-height: 1.25; }
+.brand-tag { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
+[data-testid="stSidebar"] div[role="radiogroup"] { gap: .15rem; }
+[data-testid="stSidebar"] div[role="radiogroup"] label {
+  padding: .5rem .75rem; border-radius: 8px; border-left: 3px solid transparent; width: 100%;
+}
+[data-testid="stSidebar"] div[role="radiogroup"] label:hover { background: var(--raised); }
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) {
+  background: var(--raised); border-left-color: var(--copper);
+}
+[data-testid="stSidebar"] div[role="radiogroup"] label > div:first-child { display: none; }
+.side-note { font-size: .8rem; color: var(--muted); line-height: 1.5; }
+
+/* ---------- headings ---------- */
+.page-title { font-size: 1.75rem; font-weight: 800; color: var(--text); margin: 0; letter-spacing: -0.01em; }
+.page-sub { color: var(--muted); font-size: .92rem; margin: .2rem 0 1.4rem 0; }
+.section-title { font-size: 1.05rem; font-weight: 700; margin: 1.6rem 0 .2rem 0; color: var(--text); }
+.section-sub { color: var(--muted); font-size: .84rem; margin-bottom: .6rem; }
+
+/* ---------- KPI cards ---------- */
+.kpi {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+  padding: 1.05rem 1.2rem; height: 100%;
+}
+.kpi-label { color: var(--muted); font-size: .85rem; font-weight: 600; }
+.kpi-value { color: var(--text); font-size: 1.95rem; font-weight: 800; letter-spacing: -0.02em; margin: .25rem 0 .2rem 0; }
+.kpi-sub { color: var(--muted); font-size: .8rem; }
+.kpi-sub.up { color: var(--good); }
+.kpi-sub.down { color: var(--bad); }
+.kpi.lead { border-top: 3px solid var(--copper); }
+
+/* ---------- insight cards ---------- */
+.insight {
+  background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--steel);
+  border-radius: 10px; padding: .85rem 1rem; margin-bottom: .7rem;
+}
+.insight.positive { border-left-color: var(--good); }
+.insight.warning { border-left-color: var(--copper); }
+.insight-title { font-weight: 700; color: var(--text); font-size: .95rem; }
+.insight-detail { color: #B7C1CF; font-size: .86rem; margin-top: .25rem; line-height: 1.45; }
+.insight-action { color: var(--muted); font-size: .82rem; margin-top: .35rem; }
+
+/* ---------- tool trace (chat) ---------- */
+.trace { border-left: 2px solid var(--copper); padding-left: .9rem; margin: .4rem 0 .2rem .2rem; }
+.trace-step { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem; margin: .35rem 0; font-size: .85rem; }
+.trace-name { font-weight: 700; color: var(--text); }
+.trace-args { color: var(--muted); font-size: .78rem; word-break: break-word; }
+.chip { display: inline-block; padding: .05rem .5rem; border-radius: 999px; font-size: .72rem; font-weight: 700; }
+.chip.ok { background: rgba(92,197,154,.15); color: var(--good); }
+.chip.err { background: rgba(232,112,122,.15); color: var(--bad); }
+.chip.mock { background: rgba(217,154,78,.15); color: var(--copper); }
+.chip.live { background: rgba(92,197,154,.15); color: var(--good); }
+.chip.off { background: rgba(140,153,171,.15); color: var(--muted); }
+.chip.time { background: var(--raised); color: var(--muted); }
+
+/* ---------- integration cards ---------- */
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.2rem; margin-bottom: .8rem; }
+.card-title { font-weight: 700; font-size: 1rem; color: var(--text); margin-bottom: .35rem; }
+.card-body { color: #B7C1CF; font-size: .86rem; line-height: 1.5; }
+
+/* ---------- misc widgets ---------- */
+[data-testid="stDataFrame"] { border: 1px solid var(--line); border-radius: 10px; }
+.stButton > button, .stDownloadButton > button {
+  border-radius: 8px; border: 1px solid var(--line); background: var(--raised); color: var(--text); font-weight: 600;
+}
+.stButton > button:hover, .stDownloadButton > button:hover { border-color: var(--copper); color: var(--copper); }
+.stButton > button:focus-visible, .stDownloadButton > button:focus-visible { outline: 2px solid var(--copper); outline-offset: 2px; }
+[data-testid="stChatMessage"] { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; }
+
+@media (max-width: 768px) {
+  .block-container { padding-left: 1rem; padding-right: 1rem; padding-top: 1.2rem; }
+  .kpi-value { font-size: 1.5rem; }
+  .page-title { font-size: 1.4rem; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }

@@ -1,0 +1,1578 @@
+sale_id,sale_date,customer_id,product_id,quantity,unit_price,discount_pct,total_amount,payment_method,channel
+1,2025-11-24,50,18,1,99.0,5.0,94.05,Credit Card,Partner
+2,2025-11-24,50,18,2,99.0,0.0,198.0,PayPal,Online
+3,2025-11-24,55,18,1,99.0,10.0,89.1,Debit Card,Online
+4,2025-11-24,50,7,1,449.0,0.0,449.0,Credit Card,Partner
+5,2025-11-25,13,12,1,29.0,15.0,24.65,Debit Card,Partner
+6,2025-11-25,7,21,1,129.0,15.0,109.65,Credit Card,Online
+7,2025-11-25,26,13,1,89.0,5.0,84.55,Debit Card,Online
+8,2025-11-25,38,8,1,249.0,0.0,249.0,Bank Transfer,Online
+9,2025-11-26,47,12,1,29.0,0.0,29.0,Debit Card,Online
+10,2025-11-26,17,17,1,549.0,0.0,549.0,Credit Card,Online
+11,2025-11-26,25,9,1,79.0,0.0,79.0,Bank Transfer,Retail Store
+12,2025-11-26,56,12,1,29.0,0.0,29.0,Credit Card,Online
+13,2025-11-27,39,12,1,29.0,0.0,29.0,Credit Card,Online
+14,2025-11-27,56,14,1,49.0,0.0,49.0,Debit Card,Retail Store
+15,2025-11-27,19,16,1,329.0,5.0,312.55,Credit Card,Online
+16,2025-11-27,1,8,1,249.0,10.0,224.1,Credit Card,Online
+17,2025-11-27,40,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+18,2025-11-28,48,14,1,49.0,0.0,49.0,Credit Card,Partner
+19,2025-11-28,32,2,1,1350.0,10.0,1215.0,Debit Card,Retail Store
+20,2025-11-28,42,21,1,129.0,15.0,109.65,PayPal,Retail Store
+21,2025-11-28,47,11,3,19.0,0.0,57.0,PayPal,Retail Store
+22,2025-11-28,29,8,1,249.0,5.0,236.55,PayPal,Online
+23,2025-11-28,40,9,1,79.0,0.0,79.0,Credit Card,Online
+24,2025-11-29,7,7,1,449.0,5.0,426.55,Credit Card,Online
+25,2025-11-29,34,10,1,39.0,0.0,39.0,Bank Transfer,Retail Store
+26,2025-11-29,44,18,1,99.0,0.0,99.0,Credit Card,Online
+27,2025-11-29,48,18,5,99.0,0.0,495.0,PayPal,Online
+28,2025-11-29,39,7,1,449.0,0.0,449.0,Credit Card,Online
+29,2025-11-30,25,5,1,399.0,0.0,399.0,Debit Card,Online
+30,2025-11-30,24,11,1,19.0,5.0,18.05,Credit Card,Online
+31,2025-11-30,4,10,1,39.0,0.0,39.0,PayPal,Online
+32,2025-11-30,48,16,1,329.0,0.0,329.0,Credit Card,Online
+33,2025-12-01,20,12,2,29.0,5.0,55.1,PayPal,Partner
+34,2025-12-01,10,1,1,1150.0,0.0,1150.0,Debit Card,Retail Store
+35,2025-12-01,11,13,2,89.0,0.0,178.0,Debit Card,Retail Store
+36,2025-12-01,7,16,2,329.0,0.0,658.0,Credit Card,Online
+37,2025-12-01,42,21,1,129.0,5.0,122.55,Credit Card,Retail Store
+38,2025-12-02,7,14,3,49.0,5.0,139.65,Credit Card,Partner
+39,2025-12-02,49,9,1,79.0,0.0,79.0,Debit Card,Online
+40,2025-12-02,53,16,1,329.0,15.0,279.65,Debit Card,Retail Store
+41,2025-12-02,46,10,2,39.0,15.0,66.3,Credit Card,Retail Store
+42,2025-12-02,34,10,1,39.0,5.0,37.05,Credit Card,Partner
+43,2025-12-03,6,18,1,99.0,0.0,99.0,Debit Card,Online
+44,2025-12-03,1,18,1,99.0,0.0,99.0,PayPal,Online
+45,2025-12-03,55,13,1,89.0,0.0,89.0,Bank Transfer,Online
+46,2025-12-03,47,10,2,39.0,5.0,74.1,Debit Card,Online
+47,2025-12-03,49,4,1,799.0,5.0,759.05,Credit Card,Retail Store
+48,2025-12-04,34,10,2,39.0,0.0,78.0,PayPal,Online
+49,2025-12-04,13,4,1,799.0,0.0,799.0,Debit Card,Retail Store
+50,2025-12-04,8,7,1,449.0,5.0,426.55,Bank Transfer,Online
+51,2025-12-04,13,4,1,799.0,0.0,799.0,Credit Card,Online
+52,2025-12-04,34,9,4,79.0,0.0,316.0,Debit Card,Online
+53,2025-12-05,31,18,1,99.0,0.0,99.0,Credit Card,Online
+54,2025-12-05,4,20,1,119.0,10.0,107.1,Credit Card,Online
+55,2025-12-05,40,2,1,1350.0,0.0,1350.0,Credit Card,Partner
+56,2025-12-05,7,14,2,49.0,5.0,93.1,Credit Card,Online
+57,2025-12-05,26,10,3,39.0,15.0,99.45,Credit Card,Retail Store
+58,2025-12-05,39,14,4,49.0,0.0,196.0,Credit Card,Retail Store
+59,2025-12-06,7,4,1,799.0,0.0,799.0,Debit Card,Online
+60,2025-12-06,12,13,2,89.0,0.0,178.0,Debit Card,Partner
+61,2025-12-06,49,12,2,29.0,10.0,52.2,Credit Card,Online
+62,2025-12-06,41,19,2,49.0,0.0,98.0,Credit Card,Online
+63,2025-12-06,48,11,1,19.0,0.0,19.0,Debit Card,Retail Store
+64,2025-12-06,59,11,1,19.0,0.0,19.0,Credit Card,Online
+65,2025-12-07,13,4,2,799.0,10.0,1438.2,Debit Card,Partner
+66,2025-12-07,60,12,1,29.0,0.0,29.0,PayPal,Online
+67,2025-12-07,41,19,1,49.0,0.0,49.0,Debit Card,Online
+68,2025-12-07,6,9,1,79.0,5.0,75.05,PayPal,Online
+69,2025-12-07,44,9,4,79.0,10.0,284.4,Debit Card,Online
+70,2025-12-08,18,21,1,129.0,0.0,129.0,Bank Transfer,Retail Store
+71,2025-12-08,34,10,1,39.0,0.0,39.0,PayPal,Retail Store
+72,2025-12-08,48,6,1,1099.0,10.0,989.1,Credit Card,Retail Store
+73,2025-12-08,7,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+74,2025-12-08,35,4,3,799.0,10.0,2157.3,Debit Card,Online
+75,2025-12-09,31,13,1,89.0,0.0,89.0,PayPal,Partner
+76,2025-12-09,13,11,1,19.0,10.0,17.1,Debit Card,Partner
+77,2025-12-09,54,9,2,79.0,0.0,158.0,Bank Transfer,Online
+78,2025-12-09,50,9,1,79.0,0.0,79.0,Bank Transfer,Online
+79,2025-12-09,7,11,1,19.0,0.0,19.0,Debit Card,Online
+80,2025-12-10,8,13,2,89.0,0.0,178.0,PayPal,Online
+81,2025-12-10,47,13,3,89.0,0.0,267.0,Debit Card,Retail Store
+82,2025-12-10,60,11,1,19.0,0.0,19.0,Debit Card,Partner
+83,2025-12-10,55,10,1,39.0,0.0,39.0,PayPal,Online
+84,2025-12-10,41,5,1,399.0,15.0,339.15,Credit Card,Retail Store
+85,2025-12-11,54,18,2,99.0,0.0,198.0,Credit Card,Retail Store
+86,2025-12-11,48,18,1,99.0,0.0,99.0,Debit Card,Partner
+87,2025-12-11,60,14,1,49.0,0.0,49.0,Debit Card,Partner
+88,2025-12-11,26,13,3,89.0,0.0,267.0,PayPal,Online
+89,2025-12-11,22,5,1,399.0,0.0,399.0,PayPal,Online
+90,2025-12-12,55,12,1,29.0,10.0,26.1,Credit Card,Online
+91,2025-12-12,13,8,1,249.0,10.0,224.1,Bank Transfer,Retail Store
+92,2025-12-12,7,10,1,39.0,0.0,39.0,Debit Card,Online
+93,2025-12-12,13,17,1,549.0,0.0,549.0,Debit Card,Online
+94,2025-12-12,37,11,4,19.0,0.0,76.0,Bank Transfer,Retail Store
+95,2025-12-12,13,11,2,19.0,5.0,36.1,Credit Card,Retail Store
+96,2025-12-13,56,9,2,79.0,5.0,150.1,Credit Card,Retail Store
+97,2025-12-13,40,12,2,29.0,5.0,55.1,PayPal,Retail Store
+98,2025-12-13,56,12,1,29.0,0.0,29.0,Debit Card,Retail Store
+99,2025-12-13,6,9,2,79.0,0.0,158.0,Credit Card,Online
+100,2025-12-13,59,11,3,19.0,10.0,51.3,Credit Card,Retail Store
+101,2025-12-13,30,15,2,129.0,0.0,258.0,Credit Card,Partner
+102,2025-12-14,59,18,1,99.0,15.0,84.15,Bank Transfer,Retail Store
+103,2025-12-14,22,14,1,49.0,0.0,49.0,Debit Card,Retail Store
+104,2025-12-14,42,11,3,19.0,10.0,51.3,Credit Card,Online
+105,2025-12-14,1,18,1,99.0,10.0,89.1,Credit Card,Online
+106,2025-12-14,50,19,1,49.0,0.0,49.0,Credit Card,Partner
+107,2025-12-14,16,11,1,19.0,10.0,17.1,Credit Card,Online
+108,2025-12-15,47,20,1,119.0,5.0,113.05,Credit Card,Online
+109,2025-12-15,7,10,1,39.0,15.0,33.15,Credit Card,Online
+110,2025-12-15,26,20,2,119.0,0.0,238.0,Debit Card,Online
+111,2025-12-15,60,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+112,2025-12-15,26,12,2,29.0,0.0,58.0,Credit Card,Retail Store
+113,2025-12-16,7,11,1,19.0,5.0,18.05,Credit Card,Online
+114,2025-12-16,55,9,1,79.0,10.0,71.1,Credit Card,Partner
+115,2025-12-16,7,4,1,799.0,0.0,799.0,Debit Card,Online
+116,2025-12-16,1,14,1,49.0,0.0,49.0,Credit Card,Online
+117,2025-12-16,47,11,2,19.0,0.0,38.0,PayPal,Online
+118,2025-12-17,31,20,1,119.0,5.0,113.05,PayPal,Online
+119,2025-12-17,27,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+120,2025-12-17,31,19,1,49.0,0.0,49.0,Debit Card,Online
+121,2025-12-17,13,12,1,29.0,0.0,29.0,Bank Transfer,Online
+122,2025-12-17,26,11,1,19.0,5.0,18.05,PayPal,Retail Store
+123,2025-12-17,49,13,1,89.0,0.0,89.0,Credit Card,Online
+124,2025-12-18,25,4,1,799.0,5.0,759.05,Credit Card,Online
+125,2025-12-18,58,3,1,1850.0,0.0,1850.0,Credit Card,Retail Store
+126,2025-12-18,50,11,2,19.0,0.0,38.0,Credit Card,Online
+127,2025-12-18,20,12,2,29.0,10.0,52.2,PayPal,Partner
+128,2025-12-18,39,9,2,79.0,0.0,158.0,Debit Card,Online
+129,2025-12-19,53,9,2,79.0,0.0,158.0,PayPal,Retail Store
+130,2025-12-19,60,16,1,329.0,5.0,312.55,Credit Card,Partner
+131,2025-12-19,51,9,1,79.0,5.0,75.05,Credit Card,Online
+132,2025-12-19,1,18,1,99.0,0.0,99.0,Credit Card,Retail Store
+133,2025-12-19,2,14,1,49.0,0.0,49.0,Credit Card,Online
+134,2025-12-19,47,14,2,49.0,0.0,98.0,Credit Card,Online
+135,2025-12-20,42,9,2,79.0,0.0,158.0,Credit Card,Online
+136,2025-12-20,48,4,1,799.0,0.0,799.0,Debit Card,Online
+137,2025-12-20,42,2,1,1350.0,0.0,1350.0,Credit Card,Online
+138,2025-12-20,10,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+139,2025-12-20,8,10,2,39.0,0.0,78.0,PayPal,Retail Store
+140,2025-12-20,5,18,1,99.0,0.0,99.0,Bank Transfer,Partner
+141,2025-12-21,38,13,1,89.0,0.0,89.0,Credit Card,Online
+142,2025-12-21,50,12,3,29.0,10.0,78.3,Credit Card,Retail Store
+143,2025-12-21,13,11,1,19.0,0.0,19.0,Credit Card,Online
+144,2025-12-21,19,5,1,399.0,0.0,399.0,Debit Card,Partner
+145,2025-12-21,20,13,3,89.0,10.0,240.3,Credit Card,Online
+146,2025-12-22,39,14,2,49.0,0.0,98.0,PayPal,Online
+147,2025-12-22,48,14,1,49.0,10.0,44.1,Debit Card,Retail Store
+148,2025-12-22,40,18,1,99.0,0.0,99.0,Credit Card,Online
+149,2025-12-22,16,9,1,79.0,0.0,79.0,Credit Card,Online
+150,2025-12-22,4,16,1,329.0,10.0,296.1,PayPal,Retail Store
+151,2025-12-22,32,10,2,39.0,5.0,74.1,PayPal,Online
+152,2025-12-23,41,9,1,79.0,0.0,79.0,Credit Card,Online
+153,2025-12-23,55,9,2,79.0,0.0,158.0,Credit Card,Online
+154,2025-12-23,26,10,1,39.0,0.0,39.0,Credit Card,Online
+155,2025-12-23,25,9,2,79.0,5.0,150.1,Debit Card,Online
+156,2025-12-23,6,12,1,29.0,5.0,27.55,Debit Card,Partner
+157,2025-12-24,19,11,1,19.0,0.0,19.0,Bank Transfer,Retail Store
+158,2025-12-24,24,11,4,19.0,0.0,76.0,Credit Card,Retail Store
+159,2025-12-24,50,12,3,29.0,5.0,82.65,Debit Card,Online
+160,2025-12-24,41,10,1,39.0,0.0,39.0,Credit Card,Online
+161,2025-12-24,59,10,1,39.0,0.0,39.0,Credit Card,Retail Store
+162,2025-12-25,49,16,2,329.0,0.0,658.0,Credit Card,Retail Store
+163,2025-12-25,7,10,1,39.0,10.0,35.1,PayPal,Retail Store
+164,2025-12-25,7,10,1,39.0,5.0,37.05,Credit Card,Online
+165,2025-12-25,13,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+166,2025-12-25,28,16,1,329.0,10.0,296.1,Bank Transfer,Online
+167,2025-12-25,13,10,1,39.0,15.0,33.15,PayPal,Retail Store
+168,2025-12-26,13,12,3,29.0,0.0,87.0,Credit Card,Retail Store
+169,2025-12-26,54,9,2,79.0,0.0,158.0,Bank Transfer,Online
+170,2025-12-26,26,20,1,119.0,0.0,119.0,Credit Card,Online
+171,2025-12-26,4,11,1,19.0,15.0,16.15,Credit Card,Online
+172,2025-12-26,59,16,1,329.0,5.0,312.55,Credit Card,Online
+173,2025-12-26,51,13,1,89.0,5.0,84.55,Credit Card,Online
+174,2025-12-27,13,16,1,329.0,5.0,312.55,Debit Card,Online
+175,2025-12-27,14,9,1,79.0,0.0,79.0,PayPal,Online
+176,2025-12-27,7,19,1,49.0,0.0,49.0,Debit Card,Online
+177,2025-12-27,7,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+178,2025-12-27,6,21,1,129.0,0.0,129.0,Debit Card,Partner
+179,2025-12-27,35,10,1,39.0,5.0,37.05,Bank Transfer,Online
+180,2025-12-28,49,9,2,79.0,5.0,150.1,PayPal,Retail Store
+181,2025-12-28,19,2,1,1350.0,10.0,1215.0,Credit Card,Retail Store
+182,2025-12-28,28,13,2,89.0,10.0,160.2,Credit Card,Retail Store
+183,2025-12-28,27,9,1,79.0,0.0,79.0,Credit Card,Partner
+184,2025-12-28,32,22,1,59.0,0.0,59.0,PayPal,Online
+185,2025-12-28,20,14,3,49.0,0.0,147.0,Credit Card,Online
+186,2025-12-29,47,18,1,99.0,15.0,84.15,Debit Card,Online
+187,2025-12-29,58,11,3,19.0,5.0,54.15,Credit Card,Retail Store
+188,2025-12-29,50,11,1,19.0,0.0,19.0,Debit Card,Online
+189,2025-12-29,39,10,2,39.0,0.0,78.0,Credit Card,Partner
+190,2025-12-29,20,22,1,59.0,15.0,50.15,Bank Transfer,Online
+191,2025-12-30,21,15,2,129.0,15.0,219.3,Credit Card,Retail Store
+192,2025-12-30,49,1,1,1150.0,5.0,1092.5,Credit Card,Online
+193,2025-12-30,37,11,2,19.0,10.0,34.2,Credit Card,Retail Store
+194,2025-12-30,38,11,1,19.0,5.0,18.05,Credit Card,Online
+195,2025-12-30,47,11,1,19.0,0.0,19.0,Credit Card,Online
+196,2025-12-31,60,9,3,79.0,0.0,237.0,Credit Card,Partner
+197,2025-12-31,26,19,1,49.0,0.0,49.0,Debit Card,Retail Store
+198,2025-12-31,17,9,1,79.0,0.0,79.0,PayPal,Partner
+199,2025-12-31,46,19,1,49.0,5.0,46.55,Debit Card,Online
+200,2025-12-31,10,5,1,399.0,0.0,399.0,Debit Card,Online
+201,2026-01-01,35,11,1,19.0,0.0,19.0,Bank Transfer,Retail Store
+202,2026-01-01,33,14,3,49.0,0.0,147.0,Bank Transfer,Retail Store
+203,2026-01-01,26,12,1,29.0,10.0,26.1,PayPal,Retail Store
+204,2026-01-02,59,10,3,39.0,0.0,117.0,Credit Card,Online
+205,2026-01-02,7,9,2,79.0,0.0,158.0,Bank Transfer,Partner
+206,2026-01-02,53,8,1,249.0,0.0,249.0,Credit Card,Online
+207,2026-01-02,34,11,1,19.0,10.0,17.1,Credit Card,Retail Store
+208,2026-01-03,39,17,1,549.0,10.0,494.1,Credit Card,Online
+209,2026-01-03,40,11,2,19.0,5.0,36.1,Credit Card,Retail Store
+210,2026-01-03,31,12,1,29.0,15.0,24.65,Debit Card,Retail Store
+211,2026-01-04,15,4,1,799.0,0.0,799.0,Debit Card,Online
+212,2026-01-04,39,9,2,79.0,5.0,150.1,PayPal,Partner
+213,2026-01-04,7,9,2,79.0,0.0,158.0,Debit Card,Online
+214,2026-01-05,6,9,1,79.0,5.0,75.05,Credit Card,Partner
+215,2026-01-05,7,9,2,79.0,0.0,158.0,PayPal,Online
+216,2026-01-05,32,11,1,19.0,0.0,19.0,Bank Transfer,Online
+217,2026-01-06,10,9,1,79.0,0.0,79.0,PayPal,Retail Store
+218,2026-01-06,28,11,3,19.0,0.0,57.0,PayPal,Retail Store
+219,2026-01-06,48,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+220,2026-01-07,31,14,1,49.0,15.0,41.65,Debit Card,Online
+221,2026-01-07,60,10,2,39.0,0.0,78.0,Bank Transfer,Retail Store
+222,2026-01-07,10,11,1,19.0,0.0,19.0,Credit Card,Online
+223,2026-01-08,27,11,1,19.0,0.0,19.0,Debit Card,Online
+224,2026-01-08,60,14,1,49.0,0.0,49.0,PayPal,Online
+225,2026-01-08,46,9,3,79.0,0.0,237.0,Debit Card,Partner
+226,2026-01-09,50,13,2,89.0,0.0,178.0,Debit Card,Partner
+227,2026-01-09,49,14,2,49.0,5.0,93.1,Debit Card,Online
+228,2026-01-09,40,12,3,29.0,0.0,87.0,Debit Card,Online
+229,2026-01-10,7,1,1,1150.0,0.0,1150.0,Debit Card,Online
+230,2026-01-10,49,19,2,49.0,5.0,93.1,Credit Card,Online
+231,2026-01-10,10,9,2,79.0,0.0,158.0,Credit Card,Online
+232,2026-01-11,20,9,2,79.0,5.0,150.1,Debit Card,Retail Store
+233,2026-01-11,40,5,1,399.0,0.0,399.0,Credit Card,Partner
+234,2026-01-11,15,9,1,79.0,5.0,75.05,Credit Card,Online
+235,2026-01-12,50,9,1,79.0,5.0,75.05,Credit Card,Partner
+236,2026-01-12,50,20,2,119.0,0.0,238.0,Credit Card,Retail Store
+237,2026-01-12,20,10,1,39.0,0.0,39.0,Credit Card,Online
+238,2026-01-13,44,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+239,2026-01-13,34,12,1,29.0,0.0,29.0,PayPal,Online
+240,2026-01-13,49,1,1,1150.0,10.0,1035.0,Credit Card,Partner
+241,2026-01-14,29,5,2,399.0,0.0,798.0,Debit Card,Partner
+242,2026-01-14,6,11,1,19.0,5.0,18.05,Bank Transfer,Partner
+243,2026-01-14,7,18,1,99.0,10.0,89.1,Bank Transfer,Online
+244,2026-01-15,59,21,2,129.0,10.0,232.2,Credit Card,Retail Store
+245,2026-01-15,7,21,1,129.0,15.0,109.65,Debit Card,Online
+246,2026-01-15,59,18,1,99.0,0.0,99.0,Credit Card,Online
+247,2026-01-16,13,5,1,399.0,5.0,379.05,Debit Card,Retail Store
+248,2026-01-16,8,18,2,99.0,10.0,178.2,Debit Card,Online
+249,2026-01-16,42,5,1,399.0,0.0,399.0,Credit Card,Online
+250,2026-01-16,12,14,4,49.0,0.0,196.0,PayPal,Online
+251,2026-01-17,44,3,1,1850.0,0.0,1850.0,Credit Card,Online
+252,2026-01-17,55,13,1,89.0,0.0,89.0,Bank Transfer,Online
+253,2026-01-17,40,7,1,449.0,0.0,449.0,PayPal,Retail Store
+254,2026-01-18,35,10,1,39.0,5.0,37.05,Credit Card,Online
+255,2026-01-18,48,18,1,99.0,0.0,99.0,PayPal,Online
+256,2026-01-18,36,2,1,1350.0,0.0,1350.0,Debit Card,Online
+257,2026-01-19,33,4,1,799.0,0.0,799.0,Credit Card,Online
+258,2026-01-19,50,10,1,39.0,0.0,39.0,Credit Card,Online
+259,2026-01-19,50,13,1,89.0,10.0,80.1,PayPal,Retail Store
+260,2026-01-20,20,3,3,1850.0,10.0,4995.0,Credit Card,Partner
+261,2026-01-20,2,10,2,39.0,5.0,74.1,Bank Transfer,Retail Store
+262,2026-01-20,25,22,1,59.0,10.0,53.1,Bank Transfer,Online
+263,2026-01-20,43,12,1,29.0,5.0,27.55,Credit Card,Online
+264,2026-01-21,34,13,1,89.0,0.0,89.0,Credit Card,Online
+265,2026-01-21,42,11,1,19.0,10.0,17.1,Credit Card,Online
+266,2026-01-21,13,20,1,119.0,0.0,119.0,PayPal,Online
+267,2026-01-22,55,1,1,1150.0,0.0,1150.0,Credit Card,Retail Store
+268,2026-01-22,45,2,1,1350.0,0.0,1350.0,Credit Card,Online
+269,2026-01-22,54,2,1,1350.0,0.0,1350.0,PayPal,Retail Store
+270,2026-01-23,39,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+271,2026-01-23,11,9,1,79.0,10.0,71.1,PayPal,Partner
+272,2026-01-23,40,10,1,39.0,15.0,33.15,Bank Transfer,Retail Store
+273,2026-01-23,49,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+274,2026-01-24,53,9,2,79.0,10.0,142.2,Bank Transfer,Retail Store
+275,2026-01-24,59,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+276,2026-01-24,57,17,1,549.0,5.0,521.55,Credit Card,Online
+277,2026-01-24,42,11,3,19.0,0.0,57.0,PayPal,Retail Store
+278,2026-01-25,29,18,1,99.0,15.0,84.15,Credit Card,Partner
+279,2026-01-25,59,4,3,799.0,0.0,2397.0,Credit Card,Retail Store
+280,2026-01-25,10,19,1,49.0,5.0,46.55,Credit Card,Online
+281,2026-01-26,13,11,1,19.0,0.0,19.0,Bank Transfer,Online
+282,2026-01-26,52,19,1,49.0,0.0,49.0,Debit Card,Online
+283,2026-01-26,7,8,2,249.0,0.0,498.0,Credit Card,Online
+284,2026-01-27,23,16,1,329.0,5.0,312.55,Debit Card,Online
+285,2026-01-27,50,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+286,2026-01-27,7,13,1,89.0,10.0,80.1,Debit Card,Retail Store
+287,2026-01-28,2,17,2,549.0,5.0,1043.1,PayPal,Online
+288,2026-01-28,52,7,1,449.0,0.0,449.0,Debit Card,Online
+289,2026-01-28,40,12,2,29.0,0.0,58.0,Debit Card,Online
+290,2026-01-28,35,1,1,1150.0,0.0,1150.0,Bank Transfer,Online
+291,2026-01-29,42,15,3,129.0,0.0,387.0,Credit Card,Online
+292,2026-01-29,9,11,3,19.0,0.0,57.0,Credit Card,Online
+293,2026-01-29,25,11,4,19.0,0.0,76.0,Debit Card,Retail Store
+294,2026-01-30,54,14,1,49.0,0.0,49.0,Debit Card,Online
+295,2026-01-30,1,5,1,399.0,0.0,399.0,PayPal,Retail Store
+296,2026-01-30,54,4,1,799.0,0.0,799.0,Credit Card,Partner
+297,2026-01-31,29,2,1,1350.0,10.0,1215.0,PayPal,Retail Store
+298,2026-01-31,2,19,1,49.0,15.0,41.65,Debit Card,Retail Store
+299,2026-01-31,46,10,1,39.0,0.0,39.0,Credit Card,Retail Store
+300,2026-02-01,55,9,2,79.0,0.0,158.0,Bank Transfer,Retail Store
+301,2026-02-01,31,21,1,129.0,0.0,129.0,PayPal,Online
+302,2026-02-01,49,20,1,119.0,5.0,113.05,Credit Card,Online
+303,2026-02-02,31,9,4,79.0,0.0,316.0,Debit Card,Retail Store
+304,2026-02-02,6,12,2,29.0,5.0,55.1,Credit Card,Online
+305,2026-02-03,40,14,1,49.0,0.0,49.0,Credit Card,Online
+306,2026-02-03,21,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+307,2026-02-03,25,1,1,1150.0,0.0,1150.0,Debit Card,Online
+308,2026-02-04,14,10,1,39.0,10.0,35.1,Bank Transfer,Partner
+309,2026-02-04,37,5,1,399.0,0.0,399.0,Credit Card,Online
+310,2026-02-04,4,10,1,39.0,0.0,39.0,Credit Card,Online
+311,2026-02-05,40,11,1,19.0,0.0,19.0,Credit Card,Partner
+312,2026-02-05,19,12,3,29.0,0.0,87.0,Credit Card,Retail Store
+313,2026-02-05,54,21,1,129.0,0.0,129.0,Bank Transfer,Online
+314,2026-02-06,59,21,1,129.0,5.0,122.55,Debit Card,Retail Store
+315,2026-02-06,13,10,3,39.0,0.0,117.0,Credit Card,Retail Store
+316,2026-02-06,39,11,2,19.0,0.0,38.0,Bank Transfer,Online
+317,2026-02-06,46,10,1,39.0,5.0,37.05,PayPal,Retail Store
+318,2026-02-07,31,12,1,29.0,5.0,27.55,PayPal,Retail Store
+319,2026-02-07,5,22,1,59.0,0.0,59.0,Debit Card,Partner
+320,2026-02-07,44,11,2,19.0,0.0,38.0,PayPal,Online
+321,2026-02-08,6,14,2,49.0,0.0,98.0,Debit Card,Online
+322,2026-02-08,60,12,1,29.0,5.0,27.55,Bank Transfer,Online
+323,2026-02-08,1,8,1,249.0,0.0,249.0,Debit Card,Retail Store
+324,2026-02-09,24,14,2,49.0,0.0,98.0,Credit Card,Online
+325,2026-02-09,7,10,4,39.0,0.0,156.0,Bank Transfer,Online
+326,2026-02-09,17,10,1,39.0,0.0,39.0,Debit Card,Online
+327,2026-02-10,17,9,3,79.0,0.0,237.0,PayPal,Retail Store
+328,2026-02-10,42,5,3,399.0,0.0,1197.0,Credit Card,Online
+329,2026-02-10,36,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+330,2026-02-11,1,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+331,2026-02-11,10,14,3,49.0,0.0,147.0,Credit Card,Partner
+332,2026-02-11,8,9,1,79.0,0.0,79.0,PayPal,Online
+333,2026-02-12,39,11,2,19.0,0.0,38.0,PayPal,Retail Store
+334,2026-02-12,50,13,1,89.0,5.0,84.55,Credit Card,Online
+335,2026-02-12,7,9,1,79.0,5.0,75.05,Debit Card,Online
+336,2026-02-13,23,5,1,399.0,5.0,379.05,Debit Card,Partner
+337,2026-02-13,35,10,1,39.0,0.0,39.0,Debit Card,Online
+338,2026-02-13,21,1,1,1150.0,10.0,1035.0,Bank Transfer,Online
+339,2026-02-13,31,12,1,29.0,10.0,26.1,Debit Card,Online
+340,2026-02-14,48,9,1,79.0,0.0,79.0,Credit Card,Online
+341,2026-02-14,47,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+342,2026-02-14,50,9,3,79.0,0.0,237.0,PayPal,Online
+343,2026-02-14,60,4,1,799.0,5.0,759.05,Credit Card,Partner
+344,2026-02-15,20,16,1,329.0,15.0,279.65,PayPal,Online
+345,2026-02-15,50,11,1,19.0,5.0,18.05,Debit Card,Online
+346,2026-02-15,7,6,1,1099.0,0.0,1099.0,Credit Card,Online
+347,2026-02-16,18,13,1,89.0,0.0,89.0,PayPal,Partner
+348,2026-02-16,43,4,2,799.0,5.0,1518.1,Bank Transfer,Partner
+349,2026-02-16,54,4,2,799.0,0.0,1598.0,PayPal,Retail Store
+350,2026-02-17,42,10,2,39.0,0.0,78.0,Credit Card,Online
+351,2026-02-17,40,18,1,99.0,0.0,99.0,Credit Card,Partner
+352,2026-02-17,22,20,1,119.0,0.0,119.0,PayPal,Retail Store
+353,2026-02-18,27,12,1,29.0,0.0,29.0,Debit Card,Online
+354,2026-02-18,25,6,1,1099.0,10.0,989.1,Credit Card,Retail Store
+355,2026-02-18,36,10,1,39.0,5.0,37.05,Credit Card,Online
+356,2026-02-19,27,4,1,799.0,0.0,799.0,Credit Card,Partner
+357,2026-02-19,10,12,1,29.0,5.0,27.55,Credit Card,Partner
+358,2026-02-19,13,12,1,29.0,0.0,29.0,Bank Transfer,Online
+359,2026-02-20,16,13,1,89.0,5.0,84.55,PayPal,Online
+360,2026-02-20,29,5,1,399.0,5.0,379.05,Credit Card,Retail Store
+361,2026-02-20,50,21,1,129.0,0.0,129.0,Credit Card,Online
+362,2026-02-21,7,9,3,79.0,0.0,237.0,PayPal,Retail Store
+363,2026-02-21,7,22,1,59.0,0.0,59.0,Credit Card,Retail Store
+364,2026-02-21,26,13,2,89.0,0.0,178.0,Credit Card,Retail Store
+365,2026-02-22,6,4,1,799.0,0.0,799.0,Credit Card,Partner
+366,2026-02-22,17,5,1,399.0,0.0,399.0,Debit Card,Retail Store
+367,2026-02-22,39,14,2,49.0,10.0,88.2,Debit Card,Online
+368,2026-02-23,32,14,1,49.0,0.0,49.0,PayPal,Partner
+369,2026-02-23,31,4,1,799.0,0.0,799.0,Debit Card,Partner
+370,2026-02-23,60,19,1,49.0,10.0,44.1,Debit Card,Online
+371,2026-02-24,48,20,1,119.0,0.0,119.0,Credit Card,Online
+372,2026-02-24,3,2,1,1350.0,0.0,1350.0,Debit Card,Online
+373,2026-02-24,25,13,1,89.0,0.0,89.0,Debit Card,Online
+374,2026-02-25,32,6,1,1099.0,0.0,1099.0,Credit Card,Retail Store
+375,2026-02-25,51,12,1,29.0,5.0,27.55,PayPal,Retail Store
+376,2026-02-25,4,4,1,799.0,0.0,799.0,Debit Card,Online
+377,2026-02-26,47,4,1,799.0,5.0,759.05,Credit Card,Partner
+378,2026-02-26,33,14,2,49.0,0.0,98.0,Credit Card,Retail Store
+379,2026-02-26,13,18,1,99.0,0.0,99.0,PayPal,Online
+380,2026-02-27,46,11,1,19.0,0.0,19.0,Credit Card,Online
+381,2026-02-27,37,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+382,2026-02-27,12,11,1,19.0,10.0,17.1,Credit Card,Online
+383,2026-02-27,23,5,2,399.0,10.0,718.2,Debit Card,Partner
+384,2026-02-28,25,9,1,79.0,5.0,75.05,Credit Card,Online
+385,2026-02-28,22,11,3,19.0,0.0,57.0,PayPal,Partner
+386,2026-02-28,59,3,1,1850.0,0.0,1850.0,PayPal,Online
+387,2026-03-01,1,5,1,399.0,0.0,399.0,Debit Card,Online
+388,2026-03-01,39,11,2,19.0,0.0,38.0,Bank Transfer,Retail Store
+389,2026-03-01,13,1,1,1150.0,0.0,1150.0,Credit Card,Retail Store
+390,2026-03-02,59,1,1,1150.0,10.0,1035.0,PayPal,Online
+391,2026-03-02,34,7,1,449.0,0.0,449.0,Bank Transfer,Retail Store
+392,2026-03-02,6,19,2,49.0,0.0,98.0,PayPal,Online
+393,2026-03-03,6,4,1,799.0,10.0,719.1,Credit Card,Retail Store
+394,2026-03-03,26,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+395,2026-03-03,45,13,1,89.0,0.0,89.0,Credit Card,Online
+396,2026-03-04,39,5,1,399.0,0.0,399.0,Credit Card,Online
+397,2026-03-04,59,6,1,1099.0,0.0,1099.0,Credit Card,Online
+398,2026-03-04,43,16,1,329.0,0.0,329.0,PayPal,Online
+399,2026-03-05,13,9,1,79.0,5.0,75.05,Credit Card,Partner
+400,2026-03-05,2,10,1,39.0,5.0,37.05,Credit Card,Online
+401,2026-03-05,50,5,1,399.0,10.0,359.1,Bank Transfer,Online
+402,2026-03-05,50,9,2,79.0,5.0,150.1,Debit Card,Online
+403,2026-03-06,1,3,2,1850.0,0.0,3700.0,Credit Card,Partner
+404,2026-03-06,51,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+405,2026-03-06,50,10,1,39.0,5.0,37.05,Credit Card,Online
+406,2026-03-06,8,9,3,79.0,0.0,237.0,Debit Card,Online
+407,2026-03-07,25,11,1,19.0,0.0,19.0,Credit Card,Online
+408,2026-03-07,55,11,2,19.0,10.0,34.2,PayPal,Partner
+409,2026-03-07,49,9,1,79.0,0.0,79.0,Bank Transfer,Online
+410,2026-03-07,24,5,1,399.0,0.0,399.0,PayPal,Retail Store
+411,2026-03-08,60,11,2,19.0,15.0,32.3,Bank Transfer,Online
+412,2026-03-08,42,8,1,249.0,10.0,224.1,Credit Card,Partner
+413,2026-03-08,11,17,1,549.0,0.0,549.0,PayPal,Retail Store
+414,2026-03-08,8,11,3,19.0,5.0,54.15,Bank Transfer,Online
+415,2026-03-09,59,11,2,19.0,0.0,38.0,Bank Transfer,Partner
+416,2026-03-09,31,9,1,79.0,0.0,79.0,Credit Card,Online
+417,2026-03-09,33,1,2,1150.0,0.0,2300.0,Credit Card,Retail Store
+418,2026-03-10,53,9,1,79.0,0.0,79.0,Bank Transfer,Retail Store
+419,2026-03-10,53,18,5,99.0,0.0,495.0,Bank Transfer,Online
+420,2026-03-10,7,9,1,79.0,0.0,79.0,Bank Transfer,Retail Store
+421,2026-03-11,41,5,2,399.0,5.0,758.1,Bank Transfer,Retail Store
+422,2026-03-11,11,11,1,19.0,0.0,19.0,Debit Card,Online
+423,2026-03-11,47,20,2,119.0,0.0,238.0,Bank Transfer,Partner
+424,2026-03-12,39,19,5,49.0,0.0,245.0,Debit Card,Partner
+425,2026-03-12,7,14,1,49.0,15.0,41.65,Credit Card,Partner
+426,2026-03-12,6,13,2,89.0,10.0,160.2,Credit Card,Online
+427,2026-03-12,13,3,1,1850.0,0.0,1850.0,Credit Card,Online
+428,2026-03-13,59,18,1,99.0,0.0,99.0,Debit Card,Online
+429,2026-03-13,29,18,1,99.0,5.0,94.05,Credit Card,Online
+430,2026-03-13,53,9,1,79.0,15.0,67.15,Credit Card,Online
+431,2026-03-13,22,13,1,89.0,10.0,80.1,Credit Card,Retail Store
+432,2026-03-14,30,1,2,1150.0,0.0,2300.0,PayPal,Online
+433,2026-03-14,7,6,1,1099.0,5.0,1044.05,PayPal,Retail Store
+434,2026-03-14,13,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+435,2026-03-14,7,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+436,2026-03-15,1,5,1,399.0,0.0,399.0,PayPal,Online
+437,2026-03-15,25,10,2,39.0,0.0,78.0,Debit Card,Online
+438,2026-03-15,55,9,1,79.0,0.0,79.0,Debit Card,Online
+439,2026-03-15,13,2,1,1350.0,5.0,1282.5,Credit Card,Online
+440,2026-03-16,59,11,2,19.0,10.0,34.2,PayPal,Online
+441,2026-03-16,34,18,1,99.0,10.0,89.1,Debit Card,Online
+442,2026-03-16,56,13,1,89.0,10.0,80.1,PayPal,Retail Store
+443,2026-03-16,40,4,1,799.0,0.0,799.0,Bank Transfer,Partner
+444,2026-03-17,7,10,4,39.0,0.0,156.0,Bank Transfer,Retail Store
+445,2026-03-17,51,8,2,249.0,10.0,448.2,Credit Card,Online
+446,2026-03-17,25,9,1,79.0,0.0,79.0,PayPal,Retail Store
+447,2026-03-18,33,10,1,39.0,0.0,39.0,Debit Card,Retail Store
+448,2026-03-18,59,19,1,49.0,0.0,49.0,Credit Card,Online
+449,2026-03-18,20,10,1,39.0,0.0,39.0,Debit Card,Online
+450,2026-03-19,7,11,2,19.0,0.0,38.0,PayPal,Online
+451,2026-03-19,12,14,4,49.0,10.0,176.4,Credit Card,Retail Store
+452,2026-03-19,16,9,1,79.0,5.0,75.05,Credit Card,Partner
+453,2026-03-19,7,21,1,129.0,10.0,116.1,Credit Card,Online
+454,2026-03-20,8,6,1,1099.0,5.0,1044.05,PayPal,Partner
+455,2026-03-20,50,11,1,19.0,0.0,19.0,Debit Card,Online
+456,2026-03-20,54,18,1,99.0,0.0,99.0,PayPal,Retail Store
+457,2026-03-20,13,10,3,39.0,5.0,111.15,Credit Card,Retail Store
+458,2026-03-21,40,4,1,799.0,0.0,799.0,Debit Card,Online
+459,2026-03-21,55,11,1,19.0,0.0,19.0,PayPal,Retail Store
+460,2026-03-21,43,9,1,79.0,0.0,79.0,Debit Card,Partner
+461,2026-03-21,54,12,2,29.0,0.0,58.0,Credit Card,Online
+462,2026-03-22,48,1,2,1150.0,5.0,2185.0,Debit Card,Online
+463,2026-03-22,13,15,1,129.0,15.0,109.65,Debit Card,Online
+464,2026-03-22,22,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+465,2026-03-23,7,11,2,19.0,10.0,34.2,Credit Card,Retail Store
+466,2026-03-23,39,9,1,79.0,0.0,79.0,Bank Transfer,Retail Store
+467,2026-03-23,54,8,1,249.0,10.0,224.1,Credit Card,Online
+468,2026-03-23,48,19,2,49.0,10.0,88.2,Debit Card,Retail Store
+469,2026-03-24,47,12,4,29.0,0.0,116.0,Credit Card,Online
+470,2026-03-24,2,13,2,89.0,0.0,178.0,PayPal,Online
+471,2026-03-24,34,14,3,49.0,5.0,139.65,Debit Card,Retail Store
+472,2026-03-25,55,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+473,2026-03-25,48,5,1,399.0,0.0,399.0,Credit Card,Online
+474,2026-03-25,47,9,2,79.0,0.0,158.0,Credit Card,Online
+475,2026-03-26,28,18,1,99.0,10.0,89.1,Credit Card,Partner
+476,2026-03-26,31,18,1,99.0,0.0,99.0,Credit Card,Partner
+477,2026-03-26,7,5,1,399.0,0.0,399.0,Bank Transfer,Online
+478,2026-03-27,47,14,1,49.0,5.0,46.55,Credit Card,Retail Store
+479,2026-03-27,1,9,2,79.0,0.0,158.0,PayPal,Online
+480,2026-03-27,48,4,1,799.0,5.0,759.05,Credit Card,Partner
+481,2026-03-27,23,1,1,1150.0,0.0,1150.0,Credit Card,Online
+482,2026-03-28,9,12,2,29.0,0.0,58.0,Debit Card,Online
+483,2026-03-28,7,10,2,39.0,0.0,78.0,PayPal,Online
+484,2026-03-28,14,13,2,89.0,0.0,178.0,PayPal,Partner
+485,2026-03-28,20,19,1,49.0,0.0,49.0,Bank Transfer,Partner
+486,2026-03-29,12,13,1,89.0,5.0,84.55,Debit Card,Online
+487,2026-03-29,22,12,1,29.0,10.0,26.1,Credit Card,Online
+488,2026-03-29,4,22,1,59.0,5.0,56.05,Credit Card,Retail Store
+489,2026-03-29,25,10,1,39.0,0.0,39.0,Credit Card,Retail Store
+490,2026-03-30,15,12,2,29.0,0.0,58.0,Debit Card,Online
+491,2026-03-30,51,4,1,799.0,0.0,799.0,Credit Card,Online
+492,2026-03-30,10,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+493,2026-03-31,3,11,1,19.0,10.0,17.1,Credit Card,Online
+494,2026-03-31,42,19,2,49.0,5.0,93.1,Credit Card,Online
+495,2026-03-31,32,13,1,89.0,0.0,89.0,Credit Card,Partner
+496,2026-03-31,15,10,1,39.0,0.0,39.0,Credit Card,Online
+497,2026-04-01,17,13,1,89.0,5.0,84.55,Credit Card,Partner
+498,2026-04-01,42,5,1,399.0,0.0,399.0,Debit Card,Partner
+499,2026-04-01,6,16,1,329.0,0.0,329.0,Bank Transfer,Online
+500,2026-04-02,54,14,2,49.0,5.0,93.1,Credit Card,Retail Store
+501,2026-04-02,4,20,1,119.0,0.0,119.0,Debit Card,Retail Store
+502,2026-04-02,42,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+503,2026-04-02,52,21,1,129.0,10.0,116.1,Credit Card,Online
+504,2026-04-03,13,9,2,79.0,5.0,150.1,PayPal,Retail Store
+505,2026-04-03,36,21,1,129.0,0.0,129.0,Debit Card,Retail Store
+506,2026-04-03,6,12,1,29.0,0.0,29.0,Debit Card,Online
+507,2026-04-03,52,11,4,19.0,0.0,76.0,Debit Card,Online
+508,2026-04-03,53,18,2,99.0,0.0,198.0,Debit Card,Online
+509,2026-04-04,4,7,1,449.0,0.0,449.0,Credit Card,Online
+510,2026-04-04,50,10,3,39.0,0.0,117.0,Credit Card,Online
+511,2026-04-04,41,4,1,799.0,0.0,799.0,Credit Card,Online
+512,2026-04-04,39,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+513,2026-04-05,21,2,1,1350.0,0.0,1350.0,Debit Card,Retail Store
+514,2026-04-05,28,12,2,29.0,0.0,58.0,PayPal,Online
+515,2026-04-05,19,16,2,329.0,0.0,658.0,Debit Card,Retail Store
+516,2026-04-06,7,5,1,399.0,5.0,379.05,Credit Card,Retail Store
+517,2026-04-06,8,19,1,49.0,0.0,49.0,PayPal,Retail Store
+518,2026-04-06,7,10,4,39.0,10.0,140.4,Debit Card,Retail Store
+519,2026-04-06,26,12,4,29.0,0.0,116.0,Debit Card,Online
+520,2026-04-07,59,16,1,329.0,0.0,329.0,Bank Transfer,Online
+521,2026-04-07,38,13,1,89.0,0.0,89.0,Debit Card,Partner
+522,2026-04-07,31,10,4,39.0,10.0,140.4,PayPal,Online
+523,2026-04-07,59,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+524,2026-04-08,15,13,3,89.0,5.0,253.65,Bank Transfer,Retail Store
+525,2026-04-08,10,12,1,29.0,0.0,29.0,Debit Card,Partner
+526,2026-04-08,41,21,1,129.0,5.0,122.55,Credit Card,Online
+527,2026-04-09,29,11,2,19.0,0.0,38.0,PayPal,Retail Store
+528,2026-04-09,13,17,1,549.0,0.0,549.0,Credit Card,Online
+529,2026-04-09,42,5,1,399.0,0.0,399.0,Credit Card,Online
+530,2026-04-09,52,12,1,29.0,5.0,27.55,Credit Card,Retail Store
+531,2026-04-10,54,14,3,49.0,5.0,139.65,Debit Card,Online
+532,2026-04-10,49,14,1,49.0,5.0,46.55,Bank Transfer,Online
+533,2026-04-10,59,21,1,129.0,0.0,129.0,Credit Card,Online
+534,2026-04-10,40,14,3,49.0,10.0,132.3,Bank Transfer,Retail Store
+535,2026-04-10,41,14,1,49.0,5.0,46.55,PayPal,Partner
+536,2026-04-11,8,12,1,29.0,0.0,29.0,Debit Card,Online
+537,2026-04-11,25,11,1,19.0,0.0,19.0,Credit Card,Online
+538,2026-04-11,46,5,1,399.0,0.0,399.0,Credit Card,Partner
+539,2026-04-11,40,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+540,2026-04-12,11,5,1,399.0,0.0,399.0,Credit Card,Online
+541,2026-04-12,6,6,1,1099.0,0.0,1099.0,Credit Card,Online
+542,2026-04-12,48,11,4,19.0,10.0,68.4,Bank Transfer,Online
+543,2026-04-12,42,10,3,39.0,5.0,111.15,Debit Card,Partner
+544,2026-04-13,18,19,2,49.0,0.0,98.0,Debit Card,Online
+545,2026-04-13,57,16,1,329.0,10.0,296.1,Credit Card,Online
+546,2026-04-13,55,5,1,399.0,10.0,359.1,Credit Card,Partner
+547,2026-04-14,1,3,1,1850.0,5.0,1757.5,PayPal,Online
+548,2026-04-14,7,11,2,19.0,15.0,32.3,PayPal,Retail Store
+549,2026-04-14,59,14,1,49.0,0.0,49.0,Credit Card,Online
+550,2026-04-14,4,14,2,49.0,0.0,98.0,Credit Card,Online
+551,2026-04-15,40,10,1,39.0,5.0,37.05,Debit Card,Retail Store
+552,2026-04-15,40,14,2,49.0,5.0,93.1,Credit Card,Partner
+553,2026-04-15,7,14,1,49.0,0.0,49.0,PayPal,Online
+554,2026-04-15,24,12,1,29.0,0.0,29.0,Credit Card,Online
+555,2026-04-16,35,21,1,129.0,5.0,122.55,Bank Transfer,Retail Store
+556,2026-04-16,47,9,4,79.0,0.0,316.0,Debit Card,Online
+557,2026-04-16,1,11,1,19.0,10.0,17.1,Credit Card,Retail Store
+558,2026-04-17,20,10,2,39.0,0.0,78.0,Credit Card,Online
+559,2026-04-17,51,5,1,399.0,5.0,379.05,PayPal,Partner
+560,2026-04-17,59,22,1,59.0,0.0,59.0,Credit Card,Online
+561,2026-04-17,7,13,1,89.0,0.0,89.0,Credit Card,Retail Store
+562,2026-04-18,40,19,1,49.0,0.0,49.0,Debit Card,Online
+563,2026-04-18,39,11,1,19.0,0.0,19.0,Credit Card,Online
+564,2026-04-18,13,6,1,1099.0,0.0,1099.0,PayPal,Online
+565,2026-04-18,47,18,1,99.0,0.0,99.0,Credit Card,Retail Store
+566,2026-04-18,8,11,3,19.0,10.0,51.3,Credit Card,Online
+567,2026-04-19,55,4,1,799.0,0.0,799.0,Debit Card,Online
+568,2026-04-19,39,10,2,39.0,10.0,70.2,Debit Card,Online
+569,2026-04-19,60,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+570,2026-04-19,47,9,1,79.0,0.0,79.0,Credit Card,Online
+571,2026-04-20,53,15,2,129.0,0.0,258.0,Debit Card,Online
+572,2026-04-20,8,20,1,119.0,15.0,101.15,PayPal,Online
+573,2026-04-20,21,6,1,1099.0,0.0,1099.0,Credit Card,Online
+574,2026-04-20,10,19,1,49.0,0.0,49.0,Debit Card,Online
+575,2026-04-21,18,13,1,89.0,10.0,80.1,PayPal,Online
+576,2026-04-21,34,5,1,399.0,0.0,399.0,Debit Card,Retail Store
+577,2026-04-21,32,10,3,39.0,0.0,117.0,Credit Card,Partner
+578,2026-04-22,30,11,1,19.0,0.0,19.0,Credit Card,Online
+579,2026-04-22,40,6,1,1099.0,0.0,1099.0,PayPal,Online
+580,2026-04-22,12,15,2,129.0,0.0,258.0,Debit Card,Online
+581,2026-04-22,7,16,1,329.0,0.0,329.0,Debit Card,Online
+582,2026-04-23,3,11,1,19.0,0.0,19.0,Credit Card,Partner
+583,2026-04-23,39,11,1,19.0,5.0,18.05,Debit Card,Online
+584,2026-04-23,6,10,4,39.0,10.0,140.4,Credit Card,Retail Store
+585,2026-04-23,39,14,3,49.0,0.0,147.0,Debit Card,Online
+586,2026-04-24,20,10,2,39.0,0.0,78.0,Credit Card,Online
+587,2026-04-24,10,18,1,99.0,0.0,99.0,Credit Card,Online
+588,2026-04-24,29,11,1,19.0,5.0,18.05,Debit Card,Online
+589,2026-04-24,30,4,1,799.0,10.0,719.1,PayPal,Retail Store
+590,2026-04-25,33,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+591,2026-04-25,49,10,2,39.0,5.0,74.1,PayPal,Retail Store
+592,2026-04-25,7,5,1,399.0,0.0,399.0,PayPal,Online
+593,2026-04-25,55,10,1,39.0,5.0,37.05,PayPal,Retail Store
+594,2026-04-26,1,12,2,29.0,0.0,58.0,Credit Card,Online
+595,2026-04-26,41,8,1,249.0,0.0,249.0,Credit Card,Online
+596,2026-04-26,43,14,1,49.0,5.0,46.55,Debit Card,Online
+597,2026-04-26,35,8,1,249.0,0.0,249.0,PayPal,Retail Store
+598,2026-04-27,42,14,1,49.0,5.0,46.55,Credit Card,Online
+599,2026-04-27,25,9,2,79.0,5.0,150.1,PayPal,Online
+600,2026-04-27,59,1,1,1150.0,0.0,1150.0,Bank Transfer,Online
+601,2026-04-28,11,4,1,799.0,0.0,799.0,Bank Transfer,Retail Store
+602,2026-04-28,33,13,2,89.0,10.0,160.2,PayPal,Retail Store
+603,2026-04-28,26,6,1,1099.0,10.0,989.1,Credit Card,Online
+604,2026-04-28,39,11,1,19.0,0.0,19.0,Credit Card,Online
+605,2026-04-29,7,22,1,59.0,0.0,59.0,Credit Card,Retail Store
+606,2026-04-29,32,13,1,89.0,0.0,89.0,Credit Card,Retail Store
+607,2026-04-29,57,9,4,79.0,0.0,316.0,Debit Card,Online
+608,2026-04-29,59,11,1,19.0,0.0,19.0,Credit Card,Online
+609,2026-04-30,59,15,4,129.0,10.0,464.4,PayPal,Retail Store
+610,2026-04-30,44,21,1,129.0,5.0,122.55,PayPal,Partner
+611,2026-04-30,27,10,2,39.0,0.0,78.0,Credit Card,Online
+612,2026-04-30,40,22,1,59.0,0.0,59.0,Credit Card,Partner
+613,2026-05-01,1,16,1,329.0,0.0,329.0,Debit Card,Retail Store
+614,2026-05-01,5,19,1,49.0,0.0,49.0,PayPal,Online
+615,2026-05-01,59,12,3,29.0,0.0,87.0,Credit Card,Retail Store
+616,2026-05-01,55,6,1,1099.0,0.0,1099.0,Debit Card,Online
+617,2026-05-02,57,12,2,29.0,5.0,55.1,PayPal,Online
+618,2026-05-02,3,10,2,39.0,0.0,78.0,Bank Transfer,Partner
+619,2026-05-02,54,10,4,39.0,10.0,140.4,Credit Card,Online
+620,2026-05-02,38,2,1,1350.0,0.0,1350.0,Debit Card,Online
+621,2026-05-02,24,12,1,29.0,15.0,24.65,Debit Card,Online
+622,2026-05-03,1,6,1,1099.0,0.0,1099.0,Debit Card,Online
+623,2026-05-03,35,7,1,449.0,5.0,426.55,Credit Card,Online
+624,2026-05-03,10,13,1,89.0,10.0,80.1,Credit Card,Online
+625,2026-05-03,7,11,1,19.0,0.0,19.0,Credit Card,Online
+626,2026-05-04,23,5,2,399.0,0.0,798.0,PayPal,Online
+627,2026-05-04,31,22,2,59.0,0.0,118.0,PayPal,Retail Store
+628,2026-05-04,15,11,2,19.0,0.0,38.0,Debit Card,Online
+629,2026-05-04,50,10,2,39.0,0.0,78.0,Credit Card,Online
+630,2026-05-05,59,8,1,249.0,0.0,249.0,PayPal,Partner
+631,2026-05-05,10,11,2,19.0,0.0,38.0,PayPal,Online
+632,2026-05-05,42,10,2,39.0,10.0,70.2,Credit Card,Online
+633,2026-05-05,40,5,1,399.0,10.0,359.1,Credit Card,Retail Store
+634,2026-05-06,53,4,1,799.0,0.0,799.0,Credit Card,Online
+635,2026-05-06,13,12,1,29.0,0.0,29.0,PayPal,Online
+636,2026-05-06,39,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+637,2026-05-06,42,20,1,119.0,0.0,119.0,Credit Card,Online
+638,2026-05-07,55,11,1,19.0,0.0,19.0,PayPal,Online
+639,2026-05-07,13,5,1,399.0,10.0,359.1,Credit Card,Online
+640,2026-05-07,13,12,1,29.0,10.0,26.1,Credit Card,Retail Store
+641,2026-05-07,54,9,1,79.0,15.0,67.15,Debit Card,Online
+642,2026-05-08,59,13,1,89.0,0.0,89.0,Debit Card,Retail Store
+643,2026-05-08,36,11,2,19.0,0.0,38.0,Credit Card,Online
+644,2026-05-08,50,10,1,39.0,0.0,39.0,Credit Card,Online
+645,2026-05-08,50,17,1,549.0,0.0,549.0,Credit Card,Partner
+646,2026-05-08,59,10,1,39.0,0.0,39.0,Credit Card,Online
+647,2026-05-09,22,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+648,2026-05-09,24,10,1,39.0,0.0,39.0,Credit Card,Retail Store
+649,2026-05-09,57,15,2,129.0,0.0,258.0,PayPal,Retail Store
+650,2026-05-09,25,18,1,99.0,0.0,99.0,Debit Card,Retail Store
+651,2026-05-09,13,12,1,29.0,0.0,29.0,Credit Card,Online
+652,2026-05-10,7,9,2,79.0,5.0,150.1,Credit Card,Online
+653,2026-05-10,31,9,1,79.0,5.0,75.05,Bank Transfer,Online
+654,2026-05-10,49,9,3,79.0,15.0,201.45,Credit Card,Retail Store
+655,2026-05-10,5,10,1,39.0,10.0,35.1,PayPal,Retail Store
+656,2026-05-11,49,7,1,449.0,0.0,449.0,PayPal,Online
+657,2026-05-11,27,14,1,49.0,15.0,41.65,Debit Card,Retail Store
+658,2026-05-11,17,9,2,79.0,0.0,158.0,Bank Transfer,Online
+659,2026-05-11,13,12,1,29.0,10.0,26.1,PayPal,Online
+660,2026-05-12,40,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+661,2026-05-12,1,2,1,1350.0,0.0,1350.0,Debit Card,Online
+662,2026-05-12,6,5,1,399.0,5.0,379.05,Bank Transfer,Partner
+663,2026-05-12,40,2,1,1350.0,5.0,1282.5,PayPal,Online
+664,2026-05-13,60,14,2,49.0,10.0,88.2,Credit Card,Online
+665,2026-05-13,43,9,1,79.0,10.0,71.1,Debit Card,Online
+666,2026-05-13,14,13,1,89.0,0.0,89.0,Credit Card,Retail Store
+667,2026-05-13,13,16,2,329.0,0.0,658.0,Credit Card,Online
+668,2026-05-14,13,9,1,79.0,5.0,75.05,Credit Card,Online
+669,2026-05-14,1,18,1,99.0,0.0,99.0,PayPal,Retail Store
+670,2026-05-14,34,10,1,39.0,0.0,39.0,Debit Card,Retail Store
+671,2026-05-14,18,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+672,2026-05-15,55,6,1,1099.0,0.0,1099.0,Debit Card,Retail Store
+673,2026-05-15,42,11,2,19.0,0.0,38.0,Credit Card,Retail Store
+674,2026-05-15,5,19,1,49.0,0.0,49.0,PayPal,Online
+675,2026-05-15,50,2,1,1350.0,10.0,1215.0,Credit Card,Online
+676,2026-05-15,46,16,1,329.0,0.0,329.0,Credit Card,Online
+677,2026-05-16,59,4,1,799.0,0.0,799.0,Credit Card,Online
+678,2026-05-16,13,12,1,29.0,5.0,27.55,Credit Card,Online
+679,2026-05-16,40,9,1,79.0,5.0,75.05,PayPal,Online
+680,2026-05-16,8,10,1,39.0,0.0,39.0,Bank Transfer,Online
+681,2026-05-17,17,22,1,59.0,0.0,59.0,PayPal,Online
+682,2026-05-17,47,11,2,19.0,0.0,38.0,PayPal,Partner
+683,2026-05-17,13,21,1,129.0,0.0,129.0,PayPal,Partner
+684,2026-05-17,39,11,4,19.0,0.0,76.0,Credit Card,Online
+685,2026-05-18,1,16,1,329.0,0.0,329.0,Debit Card,Retail Store
+686,2026-05-18,58,5,1,399.0,0.0,399.0,Credit Card,Online
+687,2026-05-18,39,7,1,449.0,0.0,449.0,Credit Card,Partner
+688,2026-05-18,47,13,2,89.0,0.0,178.0,PayPal,Retail Store
+689,2026-05-19,56,11,1,19.0,5.0,18.05,Debit Card,Online
+690,2026-05-19,4,14,1,49.0,10.0,44.1,Credit Card,Partner
+691,2026-05-19,55,7,1,449.0,5.0,426.55,Credit Card,Retail Store
+692,2026-05-19,23,9,1,79.0,0.0,79.0,Credit Card,Online
+693,2026-05-20,4,13,1,89.0,0.0,89.0,Debit Card,Online
+694,2026-05-20,11,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+695,2026-05-20,4,10,1,39.0,0.0,39.0,PayPal,Online
+696,2026-05-20,7,11,1,19.0,5.0,18.05,Credit Card,Retail Store
+697,2026-05-21,13,4,1,799.0,0.0,799.0,Bank Transfer,Online
+698,2026-05-21,42,10,1,39.0,0.0,39.0,Debit Card,Online
+699,2026-05-21,16,21,1,129.0,15.0,109.65,Credit Card,Online
+700,2026-05-21,3,16,1,329.0,0.0,329.0,PayPal,Partner
+701,2026-05-22,4,20,2,119.0,10.0,214.2,PayPal,Online
+702,2026-05-22,44,4,1,799.0,0.0,799.0,Credit Card,Online
+703,2026-05-22,10,11,1,19.0,0.0,19.0,PayPal,Online
+704,2026-05-22,45,1,1,1150.0,5.0,1092.5,Credit Card,Online
+705,2026-05-22,13,14,2,49.0,0.0,98.0,Debit Card,Online
+706,2026-05-23,13,18,1,99.0,10.0,89.1,Credit Card,Partner
+707,2026-05-23,41,7,1,449.0,15.0,381.65,Credit Card,Online
+708,2026-05-23,54,11,1,19.0,0.0,19.0,Debit Card,Partner
+709,2026-05-23,1,7,1,449.0,0.0,449.0,Credit Card,Online
+710,2026-05-23,20,9,2,79.0,0.0,158.0,Bank Transfer,Online
+711,2026-05-24,40,18,2,99.0,10.0,178.2,Credit Card,Retail Store
+712,2026-05-24,13,5,2,399.0,5.0,758.1,Credit Card,Online
+713,2026-05-24,59,11,2,19.0,0.0,38.0,Credit Card,Online
+714,2026-05-24,59,19,1,49.0,0.0,49.0,Credit Card,Online
+715,2026-05-25,50,18,1,99.0,5.0,94.05,Debit Card,Online
+716,2026-05-25,60,21,1,129.0,10.0,116.1,Bank Transfer,Online
+717,2026-05-25,36,20,1,119.0,0.0,119.0,PayPal,Retail Store
+718,2026-05-25,48,18,1,99.0,0.0,99.0,Credit Card,Partner
+719,2026-05-26,59,9,2,79.0,0.0,158.0,Credit Card,Retail Store
+720,2026-05-26,40,8,1,249.0,0.0,249.0,Credit Card,Retail Store
+721,2026-05-26,21,12,1,29.0,0.0,29.0,Debit Card,Retail Store
+722,2026-05-26,22,18,1,99.0,0.0,99.0,Credit Card,Online
+723,2026-05-27,1,9,1,79.0,5.0,75.05,Bank Transfer,Retail Store
+724,2026-05-27,4,19,5,49.0,10.0,220.5,Debit Card,Online
+725,2026-05-27,27,7,1,449.0,0.0,449.0,PayPal,Online
+726,2026-05-27,17,11,2,19.0,0.0,38.0,Debit Card,Partner
+727,2026-05-28,33,10,3,39.0,0.0,117.0,Bank Transfer,Online
+728,2026-05-28,24,13,2,89.0,0.0,178.0,Debit Card,Online
+729,2026-05-28,14,10,1,39.0,10.0,35.1,Debit Card,Online
+730,2026-05-28,40,2,1,1350.0,0.0,1350.0,PayPal,Online
+731,2026-05-29,7,14,4,49.0,5.0,186.2,Credit Card,Online
+732,2026-05-29,26,5,1,399.0,5.0,379.05,Credit Card,Online
+733,2026-05-29,13,12,3,29.0,5.0,82.65,PayPal,Online
+734,2026-05-29,7,10,1,39.0,0.0,39.0,Credit Card,Retail Store
+735,2026-05-30,59,10,1,39.0,5.0,37.05,Bank Transfer,Retail Store
+736,2026-05-30,42,5,2,399.0,0.0,798.0,PayPal,Online
+737,2026-05-30,17,14,1,49.0,5.0,46.55,Credit Card,Online
+738,2026-05-30,10,12,1,29.0,0.0,29.0,PayPal,Online
+739,2026-05-30,1,18,1,99.0,0.0,99.0,Debit Card,Online
+740,2026-05-31,39,7,1,449.0,5.0,426.55,Debit Card,Retail Store
+741,2026-05-31,4,5,1,399.0,0.0,399.0,PayPal,Retail Store
+742,2026-05-31,52,9,4,79.0,0.0,316.0,Credit Card,Online
+743,2026-05-31,42,11,2,19.0,0.0,38.0,PayPal,Online
+744,2026-06-01,38,19,1,49.0,0.0,49.0,Credit Card,Online
+745,2026-06-01,4,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+746,2026-06-01,13,11,1,19.0,5.0,18.05,Debit Card,Online
+747,2026-06-01,47,12,4,29.0,0.0,116.0,Debit Card,Partner
+748,2026-06-02,13,11,1,19.0,0.0,19.0,Bank Transfer,Online
+749,2026-06-02,7,11,1,19.0,5.0,18.05,Debit Card,Online
+750,2026-06-02,39,13,4,89.0,0.0,356.0,Credit Card,Retail Store
+751,2026-06-02,7,17,1,549.0,15.0,466.65,Credit Card,Online
+752,2026-06-03,40,1,1,1150.0,0.0,1150.0,PayPal,Online
+753,2026-06-03,32,9,1,79.0,5.0,75.05,Credit Card,Retail Store
+754,2026-06-03,40,1,1,1150.0,0.0,1150.0,Credit Card,Retail Store
+755,2026-06-03,57,14,2,49.0,0.0,98.0,Debit Card,Partner
+756,2026-06-04,19,14,1,49.0,5.0,46.55,PayPal,Online
+757,2026-06-04,47,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+758,2026-06-04,55,9,4,79.0,0.0,316.0,Credit Card,Partner
+759,2026-06-04,40,17,1,549.0,0.0,549.0,Debit Card,Partner
+760,2026-06-05,45,9,1,79.0,0.0,79.0,Debit Card,Online
+761,2026-06-05,26,20,1,119.0,0.0,119.0,Credit Card,Retail Store
+762,2026-06-05,49,19,1,49.0,0.0,49.0,Debit Card,Online
+763,2026-06-05,9,19,1,49.0,0.0,49.0,PayPal,Online
+764,2026-06-06,50,20,1,119.0,0.0,119.0,PayPal,Online
+765,2026-06-06,46,11,1,19.0,10.0,17.1,Debit Card,Retail Store
+766,2026-06-06,6,10,1,39.0,0.0,39.0,Debit Card,Online
+767,2026-06-06,38,9,3,79.0,0.0,237.0,Credit Card,Online
+768,2026-06-07,26,4,1,799.0,0.0,799.0,Credit Card,Retail Store
+769,2026-06-07,32,6,1,1099.0,0.0,1099.0,Credit Card,Retail Store
+770,2026-06-07,13,7,1,449.0,5.0,426.55,Credit Card,Online
+771,2026-06-07,7,10,2,39.0,0.0,78.0,Credit Card,Online
+772,2026-06-08,39,11,3,19.0,5.0,54.15,Debit Card,Online
+773,2026-06-08,50,13,2,89.0,0.0,178.0,Bank Transfer,Retail Store
+774,2026-06-08,28,5,1,399.0,10.0,359.1,Debit Card,Online
+775,2026-06-08,43,13,1,89.0,0.0,89.0,Credit Card,Partner
+776,2026-06-09,57,10,2,39.0,5.0,74.1,PayPal,Partner
+777,2026-06-09,26,1,1,1150.0,0.0,1150.0,Debit Card,Online
+778,2026-06-09,49,11,1,19.0,0.0,19.0,PayPal,Retail Store
+779,2026-06-09,18,12,2,29.0,0.0,58.0,Credit Card,Online
+780,2026-06-10,35,21,1,129.0,0.0,129.0,PayPal,Retail Store
+781,2026-06-10,49,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+782,2026-06-10,5,19,1,49.0,0.0,49.0,Debit Card,Online
+783,2026-06-10,35,16,1,329.0,15.0,279.65,Credit Card,Online
+784,2026-06-11,49,10,1,39.0,5.0,37.05,Credit Card,Retail Store
+785,2026-06-11,55,19,1,49.0,0.0,49.0,Credit Card,Online
+786,2026-06-11,34,10,2,39.0,0.0,78.0,Debit Card,Online
+787,2026-06-11,37,19,1,49.0,10.0,44.1,Credit Card,Partner
+788,2026-06-12,6,1,3,1150.0,0.0,3450.0,Credit Card,Online
+789,2026-06-12,22,11,1,19.0,5.0,18.05,PayPal,Online
+790,2026-06-12,54,18,1,99.0,5.0,94.05,Credit Card,Online
+791,2026-06-12,23,10,1,39.0,5.0,37.05,Debit Card,Online
+792,2026-06-12,23,19,2,49.0,0.0,98.0,Bank Transfer,Retail Store
+793,2026-06-13,5,1,1,1150.0,0.0,1150.0,Credit Card,Partner
+794,2026-06-13,6,12,1,29.0,0.0,29.0,PayPal,Retail Store
+795,2026-06-13,25,5,1,399.0,0.0,399.0,Debit Card,Online
+796,2026-06-13,8,11,2,19.0,10.0,34.2,Credit Card,Online
+797,2026-06-13,25,11,1,19.0,15.0,16.15,Debit Card,Retail Store
+798,2026-06-14,30,12,1,29.0,5.0,27.55,Bank Transfer,Partner
+799,2026-06-14,49,10,1,39.0,10.0,35.1,Credit Card,Online
+800,2026-06-14,47,21,1,129.0,5.0,122.55,PayPal,Online
+801,2026-06-14,4,9,2,79.0,0.0,158.0,Debit Card,Online
+802,2026-06-15,25,21,1,129.0,0.0,129.0,Credit Card,Partner
+803,2026-06-15,48,13,2,89.0,0.0,178.0,Debit Card,Online
+804,2026-06-15,4,22,2,59.0,5.0,112.1,Credit Card,Online
+805,2026-06-15,31,18,1,99.0,0.0,99.0,Credit Card,Partner
+806,2026-06-16,7,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+807,2026-06-16,13,13,1,89.0,5.0,84.55,PayPal,Online
+808,2026-06-16,5,5,2,399.0,0.0,798.0,Debit Card,Partner
+809,2026-06-16,49,7,1,449.0,5.0,426.55,Credit Card,Retail Store
+810,2026-06-16,20,12,2,29.0,0.0,58.0,Credit Card,Online
+811,2026-06-17,47,14,1,49.0,0.0,49.0,PayPal,Online
+812,2026-06-17,7,18,1,99.0,10.0,89.1,Credit Card,Retail Store
+813,2026-06-17,59,12,1,29.0,10.0,26.1,Debit Card,Partner
+814,2026-06-17,25,19,2,49.0,0.0,98.0,Credit Card,Online
+815,2026-06-18,24,14,2,49.0,5.0,93.1,Debit Card,Online
+816,2026-06-18,19,12,1,29.0,0.0,29.0,Debit Card,Retail Store
+817,2026-06-18,1,4,1,799.0,0.0,799.0,Credit Card,Online
+818,2026-06-18,9,1,1,1150.0,10.0,1035.0,Debit Card,Retail Store
+819,2026-06-19,40,13,1,89.0,10.0,80.1,Credit Card,Retail Store
+820,2026-06-19,56,11,4,19.0,10.0,68.4,Debit Card,Online
+821,2026-06-19,28,20,1,119.0,10.0,107.1,Credit Card,Online
+822,2026-06-19,56,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+823,2026-06-20,19,2,2,1350.0,0.0,2700.0,Credit Card,Online
+824,2026-06-20,58,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+825,2026-06-20,11,12,3,29.0,5.0,82.65,Credit Card,Online
+826,2026-06-20,37,7,1,449.0,10.0,404.1,Credit Card,Retail Store
+827,2026-06-20,59,12,1,29.0,5.0,27.55,Bank Transfer,Retail Store
+828,2026-06-21,59,10,1,39.0,10.0,35.1,PayPal,Retail Store
+829,2026-06-21,34,1,2,1150.0,10.0,2070.0,Debit Card,Retail Store
+830,2026-06-21,59,9,2,79.0,0.0,158.0,Debit Card,Partner
+831,2026-06-21,6,11,4,19.0,0.0,76.0,Debit Card,Retail Store
+832,2026-06-22,8,2,1,1350.0,0.0,1350.0,Debit Card,Partner
+833,2026-06-22,40,9,1,79.0,5.0,75.05,PayPal,Online
+834,2026-06-22,9,13,2,89.0,0.0,178.0,Credit Card,Online
+835,2026-06-22,16,11,3,19.0,0.0,57.0,Bank Transfer,Online
+836,2026-06-23,49,2,1,1350.0,10.0,1215.0,Debit Card,Online
+837,2026-06-23,42,18,1,99.0,0.0,99.0,Bank Transfer,Online
+838,2026-06-23,7,12,1,29.0,10.0,26.1,Credit Card,Retail Store
+839,2026-06-23,7,5,1,399.0,0.0,399.0,PayPal,Online
+840,2026-06-23,7,11,3,19.0,0.0,57.0,Debit Card,Retail Store
+841,2026-06-24,50,10,3,39.0,15.0,99.45,Debit Card,Online
+842,2026-06-24,60,11,1,19.0,10.0,17.1,PayPal,Retail Store
+843,2026-06-24,39,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+844,2026-06-24,35,10,4,39.0,0.0,156.0,Credit Card,Retail Store
+845,2026-06-25,49,1,1,1150.0,0.0,1150.0,Credit Card,Online
+846,2026-06-25,41,18,1,99.0,10.0,89.1,PayPal,Retail Store
+847,2026-06-25,10,12,1,29.0,0.0,29.0,Bank Transfer,Retail Store
+848,2026-06-25,2,5,1,399.0,15.0,339.15,Debit Card,Retail Store
+849,2026-06-26,1,7,1,449.0,0.0,449.0,Credit Card,Online
+850,2026-06-26,48,11,1,19.0,5.0,18.05,Debit Card,Online
+851,2026-06-26,9,14,2,49.0,15.0,83.3,Debit Card,Online
+852,2026-06-26,42,2,1,1350.0,0.0,1350.0,Credit Card,Online
+853,2026-06-26,50,14,1,49.0,5.0,46.55,Bank Transfer,Online
+854,2026-06-27,30,4,2,799.0,5.0,1518.1,Debit Card,Online
+855,2026-06-27,10,12,1,29.0,5.0,27.55,Credit Card,Online
+856,2026-06-27,47,18,1,99.0,0.0,99.0,Debit Card,Online
+857,2026-06-27,55,5,2,399.0,0.0,798.0,Credit Card,Online
+858,2026-06-28,40,21,1,129.0,0.0,129.0,Debit Card,Online
+859,2026-06-28,7,18,1,99.0,0.0,99.0,Credit Card,Partner
+860,2026-06-28,39,14,2,49.0,5.0,93.1,Credit Card,Partner
+861,2026-06-28,54,4,1,799.0,0.0,799.0,Bank Transfer,Retail Store
+862,2026-06-29,13,13,2,89.0,0.0,178.0,Credit Card,Retail Store
+863,2026-06-29,55,11,1,19.0,0.0,19.0,Credit Card,Partner
+864,2026-06-29,3,10,2,39.0,0.0,78.0,Debit Card,Online
+865,2026-06-29,50,16,1,329.0,0.0,329.0,Debit Card,Online
+866,2026-06-30,59,5,1,399.0,5.0,379.05,Credit Card,Online
+867,2026-06-30,16,13,3,89.0,5.0,253.65,Credit Card,Online
+868,2026-06-30,49,18,1,99.0,5.0,94.05,Credit Card,Online
+869,2026-06-30,40,18,1,99.0,10.0,89.1,Credit Card,Online
+870,2026-07-01,13,20,1,119.0,5.0,113.05,PayPal,Online
+871,2026-07-01,55,13,1,89.0,10.0,80.1,Debit Card,Partner
+872,2026-07-01,7,9,2,79.0,0.0,158.0,Credit Card,Retail Store
+873,2026-07-01,4,13,1,89.0,15.0,75.65,Credit Card,Online
+874,2026-07-02,59,11,4,19.0,0.0,76.0,PayPal,Online
+875,2026-07-02,20,8,1,249.0,0.0,249.0,Credit Card,Online
+876,2026-07-02,30,11,1,19.0,5.0,18.05,Debit Card,Online
+877,2026-07-02,14,12,2,29.0,10.0,52.2,PayPal,Partner
+878,2026-07-03,55,10,1,39.0,10.0,35.1,Credit Card,Partner
+879,2026-07-03,7,9,2,79.0,0.0,158.0,PayPal,Online
+880,2026-07-03,40,9,4,79.0,0.0,316.0,Credit Card,Online
+881,2026-07-03,26,12,1,29.0,0.0,29.0,PayPal,Online
+882,2026-07-03,59,12,1,29.0,0.0,29.0,Debit Card,Online
+883,2026-07-04,44,17,1,549.0,0.0,549.0,Credit Card,Retail Store
+884,2026-07-04,7,8,1,249.0,15.0,211.65,PayPal,Online
+885,2026-07-04,20,10,1,39.0,10.0,35.1,PayPal,Online
+886,2026-07-04,60,16,1,329.0,5.0,312.55,Credit Card,Online
+887,2026-07-05,17,4,1,799.0,0.0,799.0,Debit Card,Online
+888,2026-07-05,17,9,1,79.0,0.0,79.0,Credit Card,Online
+889,2026-07-05,57,10,1,39.0,0.0,39.0,Debit Card,Online
+890,2026-07-05,1,13,4,89.0,0.0,356.0,PayPal,Online
+891,2026-07-06,59,21,1,129.0,0.0,129.0,Debit Card,Partner
+892,2026-07-06,26,12,2,29.0,10.0,52.2,Credit Card,Retail Store
+893,2026-07-06,16,10,3,39.0,0.0,117.0,Credit Card,Online
+894,2026-07-06,40,11,1,19.0,10.0,17.1,Credit Card,Online
+895,2026-07-07,26,12,1,29.0,0.0,29.0,Credit Card,Online
+896,2026-07-07,39,20,2,119.0,0.0,238.0,Credit Card,Partner
+897,2026-07-07,22,9,1,79.0,0.0,79.0,Bank Transfer,Partner
+898,2026-07-07,6,13,1,89.0,15.0,75.65,PayPal,Online
+899,2026-07-08,59,10,3,39.0,0.0,117.0,Debit Card,Online
+900,2026-07-08,10,10,3,39.0,15.0,99.45,Credit Card,Partner
+901,2026-07-08,48,4,1,799.0,10.0,719.1,Credit Card,Retail Store
+902,2026-07-09,48,5,1,399.0,0.0,399.0,Debit Card,Online
+903,2026-07-09,50,16,1,329.0,0.0,329.0,Debit Card,Online
+904,2026-07-09,1,8,2,249.0,10.0,448.2,Debit Card,Retail Store
+905,2026-07-09,55,10,1,39.0,5.0,37.05,Credit Card,Online
+906,2026-07-10,60,3,1,1850.0,0.0,1850.0,Debit Card,Partner
+907,2026-07-10,40,10,2,39.0,0.0,78.0,Debit Card,Retail Store
+908,2026-07-10,53,5,1,399.0,0.0,399.0,PayPal,Online
+909,2026-07-10,7,9,1,79.0,10.0,71.1,Credit Card,Online
+910,2026-07-10,34,20,1,119.0,5.0,113.05,Credit Card,Online
+911,2026-07-11,34,18,2,99.0,5.0,188.1,Credit Card,Retail Store
+912,2026-07-11,43,4,1,799.0,10.0,719.1,Credit Card,Online
+913,2026-07-11,22,10,1,39.0,10.0,35.1,Credit Card,Online
+914,2026-07-11,11,5,2,399.0,5.0,758.1,PayPal,Online
+915,2026-07-12,35,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+916,2026-07-12,58,10,1,39.0,0.0,39.0,PayPal,Partner
+917,2026-07-12,39,14,1,49.0,5.0,46.55,Credit Card,Retail Store
+918,2026-07-12,11,18,1,99.0,0.0,99.0,Credit Card,Online
+919,2026-07-13,43,14,1,49.0,5.0,46.55,PayPal,Online
+920,2026-07-13,7,14,1,49.0,0.0,49.0,Credit Card,Online
+921,2026-07-13,4,12,2,29.0,5.0,55.1,Bank Transfer,Online
+922,2026-07-13,56,5,1,399.0,0.0,399.0,PayPal,Partner
+923,2026-07-14,20,5,1,399.0,5.0,379.05,Credit Card,Retail Store
+924,2026-07-14,7,11,1,19.0,0.0,19.0,Credit Card,Online
+925,2026-07-14,56,11,4,19.0,0.0,76.0,Credit Card,Online
+926,2026-07-15,22,11,1,19.0,15.0,16.15,Credit Card,Online
+927,2026-07-15,23,6,1,1099.0,0.0,1099.0,Bank Transfer,Online
+928,2026-07-15,7,5,1,399.0,5.0,379.05,Debit Card,Online
+929,2026-07-15,18,4,1,799.0,5.0,759.05,Credit Card,Partner
+930,2026-07-16,35,9,3,79.0,0.0,237.0,Credit Card,Retail Store
+931,2026-07-16,29,12,1,29.0,15.0,24.65,Debit Card,Online
+932,2026-07-16,26,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+933,2026-07-16,7,19,5,49.0,0.0,245.0,Bank Transfer,Online
+934,2026-07-17,60,4,1,799.0,5.0,759.05,Credit Card,Retail Store
+935,2026-07-17,39,9,2,79.0,5.0,150.1,Credit Card,Online
+936,2026-07-17,39,10,1,39.0,0.0,39.0,PayPal,Online
+937,2026-07-17,13,11,2,19.0,0.0,38.0,Credit Card,Online
+938,2026-07-18,42,21,1,129.0,5.0,122.55,Credit Card,Retail Store
+939,2026-07-18,6,4,1,799.0,5.0,759.05,PayPal,Online
+940,2026-07-18,42,10,1,39.0,0.0,39.0,PayPal,Online
+941,2026-07-18,59,1,1,1150.0,10.0,1035.0,Credit Card,Online
+942,2026-07-18,22,10,1,39.0,0.0,39.0,PayPal,Online
+943,2026-07-19,31,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+944,2026-07-19,42,12,2,29.0,0.0,58.0,PayPal,Online
+945,2026-07-19,24,11,4,19.0,5.0,72.2,Credit Card,Partner
+946,2026-07-19,17,1,1,1150.0,10.0,1035.0,Credit Card,Retail Store
+947,2026-07-20,55,9,1,79.0,0.0,79.0,Credit Card,Online
+948,2026-07-20,42,7,1,449.0,0.0,449.0,Bank Transfer,Online
+949,2026-07-20,16,9,1,79.0,0.0,79.0,Debit Card,Partner
+950,2026-07-20,37,19,1,49.0,5.0,46.55,Debit Card,Partner
+951,2026-07-21,24,11,3,19.0,0.0,57.0,Debit Card,Online
+952,2026-07-21,31,14,1,49.0,5.0,46.55,Credit Card,Online
+953,2026-07-21,31,17,1,549.0,10.0,494.1,Debit Card,Online
+954,2026-07-21,4,22,1,59.0,0.0,59.0,PayPal,Online
+955,2026-07-22,6,9,1,79.0,10.0,71.1,Debit Card,Online
+956,2026-07-22,50,12,1,29.0,10.0,26.1,Credit Card,Online
+957,2026-07-22,10,10,2,39.0,0.0,78.0,PayPal,Online
+958,2026-07-23,45,18,1,99.0,0.0,99.0,Bank Transfer,Retail Store
+959,2026-07-23,28,20,1,119.0,5.0,113.05,PayPal,Online
+960,2026-07-23,36,12,1,29.0,0.0,29.0,Credit Card,Online
+961,2026-07-23,43,9,1,79.0,0.0,79.0,PayPal,Online
+962,2026-07-24,25,16,1,329.0,0.0,329.0,Debit Card,Online
+963,2026-07-24,7,5,1,399.0,10.0,359.1,Debit Card,Retail Store
+964,2026-07-24,26,12,1,29.0,0.0,29.0,Credit Card,Online
+965,2026-07-24,50,12,1,29.0,10.0,26.1,Bank Transfer,Online
+966,2026-07-24,1,18,1,99.0,5.0,94.05,PayPal,Partner
+967,2026-07-25,21,12,1,29.0,10.0,26.1,PayPal,Online
+968,2026-07-25,7,13,4,89.0,0.0,356.0,PayPal,Partner
+969,2026-07-25,59,7,2,449.0,0.0,898.0,Credit Card,Retail Store
+970,2026-07-25,19,11,1,19.0,5.0,18.05,Credit Card,Online
+971,2026-07-26,7,21,1,129.0,0.0,129.0,Debit Card,Online
+972,2026-07-26,22,20,1,119.0,0.0,119.0,Debit Card,Partner
+973,2026-07-26,55,20,1,119.0,5.0,113.05,PayPal,Online
+974,2026-07-26,59,11,3,19.0,5.0,54.15,Bank Transfer,Retail Store
+975,2026-07-27,12,11,1,19.0,15.0,16.15,Credit Card,Retail Store
+976,2026-07-27,7,18,2,99.0,0.0,198.0,Bank Transfer,Online
+977,2026-07-27,60,7,1,449.0,10.0,404.1,Credit Card,Online
+978,2026-07-28,57,12,3,29.0,5.0,82.65,Credit Card,Online
+979,2026-07-28,54,16,2,329.0,0.0,658.0,Credit Card,Retail Store
+980,2026-07-28,47,18,2,99.0,10.0,178.2,Debit Card,Online
+981,2026-07-29,39,16,1,329.0,0.0,329.0,Credit Card,Online
+982,2026-07-29,40,12,2,29.0,0.0,58.0,Credit Card,Retail Store
+983,2026-07-29,17,4,1,799.0,0.0,799.0,Bank Transfer,Retail Store
+984,2026-07-29,48,17,1,549.0,5.0,521.55,Credit Card,Online
+985,2026-07-30,13,12,3,29.0,5.0,82.65,Credit Card,Online
+986,2026-07-30,8,18,2,99.0,10.0,178.2,Credit Card,Partner
+987,2026-07-30,58,12,2,29.0,10.0,52.2,Bank Transfer,Online
+988,2026-07-30,45,5,1,399.0,0.0,399.0,Credit Card,Online
+989,2026-07-31,59,4,1,799.0,0.0,799.0,Bank Transfer,Online
+990,2026-07-31,42,4,1,799.0,0.0,799.0,PayPal,Retail Store
+991,2026-07-31,14,11,1,19.0,10.0,17.1,Debit Card,Partner
+992,2026-07-31,13,12,1,29.0,0.0,29.0,Credit Card,Online
+993,2026-07-31,13,12,3,29.0,0.0,87.0,Debit Card,Online
+994,2026-08-01,7,9,2,79.0,5.0,150.1,PayPal,Retail Store
+995,2026-08-01,47,7,1,449.0,0.0,449.0,Credit Card,Online
+996,2026-08-01,56,22,2,59.0,15.0,100.3,Debit Card,Retail Store
+997,2026-08-01,3,7,1,449.0,0.0,449.0,Credit Card,Online
+998,2026-08-01,59,11,2,19.0,0.0,38.0,Debit Card,Partner
+999,2026-08-02,7,9,1,79.0,0.0,79.0,Credit Card,Online
+1000,2026-08-02,7,18,2,99.0,5.0,188.1,Bank Transfer,Online
+1001,2026-08-02,55,11,2,19.0,0.0,38.0,Credit Card,Partner
+1002,2026-08-02,17,22,1,59.0,0.0,59.0,PayPal,Retail Store
+1003,2026-08-03,4,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+1004,2026-08-03,26,22,2,59.0,0.0,118.0,Credit Card,Retail Store
+1005,2026-08-03,30,10,3,39.0,10.0,105.3,Credit Card,Online
+1006,2026-08-03,54,5,1,399.0,0.0,399.0,Credit Card,Partner
+1007,2026-08-04,39,21,1,129.0,0.0,129.0,Credit Card,Online
+1008,2026-08-04,49,12,3,29.0,0.0,87.0,Debit Card,Retail Store
+1009,2026-08-04,24,11,4,19.0,10.0,68.4,Credit Card,Online
+1010,2026-08-04,51,12,1,29.0,15.0,24.65,Debit Card,Online
+1011,2026-08-05,42,20,1,119.0,5.0,113.05,PayPal,Partner
+1012,2026-08-05,37,6,1,1099.0,5.0,1044.05,Credit Card,Online
+1013,2026-08-05,5,20,1,119.0,0.0,119.0,Credit Card,Partner
+1014,2026-08-05,54,4,1,799.0,0.0,799.0,PayPal,Online
+1015,2026-08-06,41,4,1,799.0,0.0,799.0,PayPal,Online
+1016,2026-08-06,43,5,1,399.0,10.0,359.1,Debit Card,Online
+1017,2026-08-06,55,10,2,39.0,0.0,78.0,PayPal,Retail Store
+1018,2026-08-06,40,10,1,39.0,0.0,39.0,Credit Card,Online
+1019,2026-08-07,43,5,1,399.0,5.0,379.05,Debit Card,Online
+1020,2026-08-07,26,19,1,49.0,0.0,49.0,Credit Card,Partner
+1021,2026-08-07,52,11,1,19.0,0.0,19.0,Credit Card,Online
+1022,2026-08-07,7,10,1,39.0,5.0,37.05,Debit Card,Online
+1023,2026-08-07,13,4,1,799.0,0.0,799.0,Debit Card,Online
+1024,2026-08-08,24,4,2,799.0,0.0,1598.0,Debit Card,Online
+1025,2026-08-08,42,12,1,29.0,15.0,24.65,PayPal,Online
+1026,2026-08-08,8,14,2,49.0,10.0,88.2,Credit Card,Online
+1027,2026-08-08,1,4,1,799.0,0.0,799.0,Debit Card,Partner
+1028,2026-08-08,59,11,1,19.0,5.0,18.05,Bank Transfer,Online
+1029,2026-08-09,43,10,1,39.0,0.0,39.0,Credit Card,Online
+1030,2026-08-09,1,21,2,129.0,0.0,258.0,Debit Card,Retail Store
+1031,2026-08-09,26,12,2,29.0,0.0,58.0,Credit Card,Online
+1032,2026-08-09,29,1,1,1150.0,0.0,1150.0,PayPal,Partner
+1033,2026-08-10,54,11,1,19.0,0.0,19.0,PayPal,Online
+1034,2026-08-10,1,12,2,29.0,15.0,49.3,PayPal,Retail Store
+1035,2026-08-10,39,11,1,19.0,0.0,19.0,Debit Card,Retail Store
+1036,2026-08-10,40,12,3,29.0,0.0,87.0,PayPal,Online
+1037,2026-08-11,17,3,2,1850.0,0.0,3700.0,Debit Card,Online
+1038,2026-08-11,59,9,2,79.0,0.0,158.0,Credit Card,Online
+1039,2026-08-11,20,7,1,449.0,10.0,404.1,Credit Card,Retail Store
+1040,2026-08-11,52,12,1,29.0,0.0,29.0,PayPal,Partner
+1041,2026-08-12,42,13,2,89.0,5.0,169.1,PayPal,Retail Store
+1042,2026-08-12,13,14,2,49.0,0.0,98.0,Credit Card,Retail Store
+1043,2026-08-12,7,10,4,39.0,0.0,156.0,Credit Card,Online
+1044,2026-08-12,1,18,1,99.0,0.0,99.0,PayPal,Partner
+1045,2026-08-13,4,10,2,39.0,0.0,78.0,Credit Card,Online
+1046,2026-08-13,19,9,1,79.0,10.0,71.1,Credit Card,Online
+1047,2026-08-13,43,11,2,19.0,5.0,36.1,Bank Transfer,Online
+1048,2026-08-13,27,17,1,549.0,0.0,549.0,Debit Card,Retail Store
+1049,2026-08-13,59,16,1,329.0,0.0,329.0,Debit Card,Partner
+1050,2026-08-14,7,9,1,79.0,0.0,79.0,PayPal,Online
+1051,2026-08-14,41,9,1,79.0,10.0,71.1,Credit Card,Online
+1052,2026-08-14,49,7,1,449.0,0.0,449.0,Debit Card,Online
+1053,2026-08-14,22,14,1,49.0,5.0,46.55,Credit Card,Retail Store
+1054,2026-08-15,12,14,1,49.0,0.0,49.0,Debit Card,Partner
+1055,2026-08-15,50,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+1056,2026-08-15,59,4,1,799.0,15.0,679.15,Credit Card,Online
+1057,2026-08-15,48,12,2,29.0,10.0,52.2,Credit Card,Retail Store
+1058,2026-08-15,46,12,1,29.0,0.0,29.0,Credit Card,Retail Store
+1059,2026-08-16,16,14,3,49.0,0.0,147.0,Credit Card,Online
+1060,2026-08-16,57,13,1,89.0,0.0,89.0,Debit Card,Retail Store
+1061,2026-08-16,41,13,3,89.0,5.0,253.65,Credit Card,Online
+1062,2026-08-16,15,1,1,1150.0,5.0,1092.5,PayPal,Online
+1063,2026-08-17,13,4,1,799.0,0.0,799.0,PayPal,Online
+1064,2026-08-17,1,14,2,49.0,0.0,98.0,PayPal,Retail Store
+1065,2026-08-17,60,4,1,799.0,0.0,799.0,Debit Card,Online
+1066,2026-08-17,4,12,1,29.0,0.0,29.0,PayPal,Online
+1067,2026-08-18,50,22,1,59.0,10.0,53.1,Debit Card,Online
+1068,2026-08-18,39,9,1,79.0,5.0,75.05,PayPal,Retail Store
+1069,2026-08-18,47,11,1,19.0,0.0,19.0,Debit Card,Retail Store
+1070,2026-08-18,21,4,1,799.0,10.0,719.1,Credit Card,Online
+1071,2026-08-19,29,10,1,39.0,0.0,39.0,Debit Card,Online
+1072,2026-08-19,24,8,1,249.0,0.0,249.0,Credit Card,Partner
+1073,2026-08-19,31,21,2,129.0,0.0,258.0,Credit Card,Retail Store
+1074,2026-08-19,7,13,3,89.0,0.0,267.0,Credit Card,Online
+1075,2026-08-20,59,9,4,79.0,5.0,300.2,Credit Card,Online
+1076,2026-08-20,37,2,1,1350.0,0.0,1350.0,Bank Transfer,Online
+1077,2026-08-20,30,14,1,49.0,0.0,49.0,Credit Card,Partner
+1078,2026-08-20,55,6,1,1099.0,0.0,1099.0,Credit Card,Online
+1079,2026-08-21,25,11,2,19.0,10.0,34.2,PayPal,Online
+1080,2026-08-21,47,11,2,19.0,0.0,38.0,Debit Card,Online
+1081,2026-08-21,26,18,1,99.0,5.0,94.05,Debit Card,Online
+1082,2026-08-21,12,10,1,39.0,15.0,33.15,PayPal,Retail Store
+1083,2026-08-22,54,13,2,89.0,5.0,169.1,PayPal,Retail Store
+1084,2026-08-22,7,11,1,19.0,5.0,18.05,Debit Card,Online
+1085,2026-08-22,37,5,1,399.0,10.0,359.1,Credit Card,Partner
+1086,2026-08-22,8,1,1,1150.0,0.0,1150.0,PayPal,Partner
+1087,2026-08-22,26,15,2,129.0,0.0,258.0,Credit Card,Partner
+1088,2026-08-23,26,10,3,39.0,0.0,117.0,Credit Card,Online
+1089,2026-08-23,7,5,1,399.0,0.0,399.0,Credit Card,Online
+1090,2026-08-23,25,5,1,399.0,0.0,399.0,Credit Card,Online
+1091,2026-08-23,24,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+1092,2026-08-23,7,6,1,1099.0,0.0,1099.0,Debit Card,Retail Store
+1093,2026-08-24,7,2,1,1350.0,0.0,1350.0,Debit Card,Online
+1094,2026-08-24,12,18,1,99.0,15.0,84.15,Debit Card,Online
+1095,2026-08-24,35,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+1096,2026-08-24,10,21,1,129.0,15.0,109.65,PayPal,Online
+1097,2026-08-25,57,10,1,39.0,0.0,39.0,PayPal,Online
+1098,2026-08-25,59,1,2,1150.0,0.0,2300.0,Debit Card,Retail Store
+1099,2026-08-25,23,9,2,79.0,0.0,158.0,Debit Card,Online
+1100,2026-08-25,47,11,1,19.0,0.0,19.0,Credit Card,Online
+1101,2026-08-26,13,10,2,39.0,15.0,66.3,Credit Card,Retail Store
+1102,2026-08-26,20,8,1,249.0,0.0,249.0,Credit Card,Partner
+1103,2026-08-26,20,10,2,39.0,0.0,78.0,Debit Card,Retail Store
+1104,2026-08-26,1,10,3,39.0,5.0,111.15,Credit Card,Partner
+1105,2026-08-27,48,11,2,19.0,5.0,36.1,Credit Card,Online
+1106,2026-08-27,51,12,2,29.0,0.0,58.0,PayPal,Retail Store
+1107,2026-08-27,21,5,1,399.0,5.0,379.05,Credit Card,Online
+1108,2026-08-27,59,10,1,39.0,0.0,39.0,Credit Card,Partner
+1109,2026-08-28,6,11,1,19.0,5.0,18.05,Credit Card,Online
+1110,2026-08-28,21,9,3,79.0,5.0,225.15,Credit Card,Online
+1111,2026-08-28,50,10,3,39.0,0.0,117.0,Debit Card,Retail Store
+1112,2026-08-28,42,11,2,19.0,0.0,38.0,Credit Card,Online
+1113,2026-08-28,4,7,1,449.0,0.0,449.0,Debit Card,Retail Store
+1114,2026-08-29,42,22,1,59.0,0.0,59.0,Credit Card,Retail Store
+1115,2026-08-29,26,20,1,119.0,10.0,107.1,Credit Card,Partner
+1116,2026-08-29,26,22,1,59.0,5.0,56.05,Debit Card,Online
+1117,2026-08-29,48,18,1,99.0,0.0,99.0,Credit Card,Online
+1118,2026-08-29,1,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+1119,2026-08-30,25,4,1,799.0,0.0,799.0,Credit Card,Retail Store
+1120,2026-08-30,6,10,3,39.0,0.0,117.0,Debit Card,Online
+1121,2026-08-30,13,4,1,799.0,0.0,799.0,Credit Card,Online
+1122,2026-08-30,49,20,1,119.0,5.0,113.05,PayPal,Retail Store
+1123,2026-08-31,6,2,1,1350.0,0.0,1350.0,PayPal,Online
+1124,2026-08-31,7,19,1,49.0,0.0,49.0,Debit Card,Online
+1125,2026-08-31,42,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+1126,2026-08-31,12,11,2,19.0,0.0,38.0,Credit Card,Retail Store
+1127,2026-09-01,40,9,4,79.0,5.0,300.2,Debit Card,Online
+1128,2026-09-01,9,4,1,799.0,0.0,799.0,PayPal,Online
+1129,2026-09-01,38,12,1,29.0,0.0,29.0,PayPal,Online
+1130,2026-09-01,13,14,1,49.0,0.0,49.0,Credit Card,Partner
+1131,2026-09-02,17,18,1,99.0,0.0,99.0,Credit Card,Online
+1132,2026-09-02,22,1,1,1150.0,5.0,1092.5,Credit Card,Online
+1133,2026-09-02,51,18,1,99.0,0.0,99.0,Credit Card,Partner
+1134,2026-09-02,49,9,2,79.0,5.0,150.1,Bank Transfer,Retail Store
+1135,2026-09-03,38,21,1,129.0,0.0,129.0,Credit Card,Online
+1136,2026-09-03,49,2,1,1350.0,0.0,1350.0,Credit Card,Online
+1137,2026-09-03,40,7,1,449.0,15.0,381.65,Credit Card,Retail Store
+1138,2026-09-03,10,5,3,399.0,0.0,1197.0,Credit Card,Online
+1139,2026-09-03,7,9,1,79.0,0.0,79.0,PayPal,Online
+1140,2026-09-04,10,5,2,399.0,5.0,758.1,Credit Card,Retail Store
+1141,2026-09-04,8,1,1,1150.0,10.0,1035.0,Credit Card,Retail Store
+1142,2026-09-04,23,14,1,49.0,10.0,44.1,Credit Card,Online
+1143,2026-09-04,50,12,4,29.0,15.0,98.6,Bank Transfer,Partner
+1144,2026-09-04,55,3,1,1850.0,10.0,1665.0,PayPal,Online
+1145,2026-09-04,22,9,2,79.0,15.0,134.3,Credit Card,Online
+1146,2026-09-05,8,11,2,19.0,0.0,38.0,Credit Card,Retail Store
+1147,2026-09-05,55,18,5,99.0,10.0,445.5,Credit Card,Online
+1148,2026-09-05,28,12,1,29.0,0.0,29.0,PayPal,Retail Store
+1149,2026-09-05,32,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+1150,2026-09-05,47,11,1,19.0,0.0,19.0,Bank Transfer,Retail Store
+1151,2026-09-06,11,6,2,1099.0,0.0,2198.0,Credit Card,Partner
+1152,2026-09-06,37,20,1,119.0,0.0,119.0,Credit Card,Online
+1153,2026-09-06,26,9,2,79.0,0.0,158.0,Debit Card,Online
+1154,2026-09-06,28,10,3,39.0,0.0,117.0,Credit Card,Online
+1155,2026-09-06,12,12,1,29.0,0.0,29.0,PayPal,Online
+1156,2026-09-07,49,19,1,49.0,0.0,49.0,Credit Card,Online
+1157,2026-09-07,10,9,1,79.0,10.0,71.1,Debit Card,Online
+1158,2026-09-07,45,22,5,59.0,5.0,280.25,PayPal,Partner
+1159,2026-09-07,1,9,3,79.0,5.0,225.15,Credit Card,Online
+1160,2026-09-08,41,10,1,39.0,5.0,37.05,Credit Card,Online
+1161,2026-09-08,12,14,1,49.0,0.0,49.0,PayPal,Retail Store
+1162,2026-09-08,47,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+1163,2026-09-08,44,6,1,1099.0,0.0,1099.0,Credit Card,Retail Store
+1164,2026-09-09,59,1,1,1150.0,10.0,1035.0,Credit Card,Online
+1165,2026-09-09,43,10,2,39.0,0.0,78.0,Credit Card,Online
+1166,2026-09-09,49,19,1,49.0,15.0,41.65,Credit Card,Retail Store
+1167,2026-09-09,39,11,3,19.0,15.0,48.45,Credit Card,Online
+1168,2026-09-09,34,5,1,399.0,0.0,399.0,Debit Card,Partner
+1169,2026-09-10,7,11,1,19.0,5.0,18.05,Debit Card,Online
+1170,2026-09-10,5,21,1,129.0,0.0,129.0,Debit Card,Online
+1171,2026-09-10,4,11,1,19.0,10.0,17.1,Credit Card,Online
+1172,2026-09-10,7,11,1,19.0,0.0,19.0,Bank Transfer,Partner
+1173,2026-09-10,7,6,1,1099.0,5.0,1044.05,Debit Card,Retail Store
+1174,2026-09-11,39,11,2,19.0,0.0,38.0,Credit Card,Online
+1175,2026-09-11,4,10,3,39.0,0.0,117.0,Bank Transfer,Partner
+1176,2026-09-11,27,11,2,19.0,0.0,38.0,PayPal,Online
+1177,2026-09-11,45,13,1,89.0,5.0,84.55,PayPal,Online
+1178,2026-09-11,13,19,1,49.0,0.0,49.0,Bank Transfer,Online
+1179,2026-09-12,24,20,1,119.0,10.0,107.1,Credit Card,Retail Store
+1180,2026-09-12,14,19,1,49.0,5.0,46.55,Credit Card,Online
+1181,2026-09-12,60,11,4,19.0,0.0,76.0,Credit Card,Retail Store
+1182,2026-09-12,18,10,1,39.0,0.0,39.0,Debit Card,Online
+1183,2026-09-12,44,14,1,49.0,5.0,46.55,PayPal,Online
+1184,2026-09-13,7,19,1,49.0,5.0,46.55,Debit Card,Online
+1185,2026-09-13,35,7,2,449.0,0.0,898.0,PayPal,Retail Store
+1186,2026-09-13,7,1,1,1150.0,0.0,1150.0,Debit Card,Online
+1187,2026-09-13,5,14,2,49.0,0.0,98.0,Credit Card,Online
+1188,2026-09-13,2,12,1,29.0,5.0,27.55,PayPal,Retail Store
+1189,2026-09-14,47,19,1,49.0,0.0,49.0,Credit Card,Online
+1190,2026-09-14,49,14,4,49.0,0.0,196.0,Credit Card,Online
+1191,2026-09-14,25,22,1,59.0,0.0,59.0,Debit Card,Online
+1192,2026-09-14,55,14,3,49.0,0.0,147.0,Credit Card,Online
+1193,2026-09-15,18,11,1,19.0,0.0,19.0,Debit Card,Partner
+1194,2026-09-15,7,6,1,1099.0,0.0,1099.0,Credit Card,Online
+1195,2026-09-15,24,10,1,39.0,10.0,35.1,Debit Card,Online
+1196,2026-09-15,4,6,1,1099.0,0.0,1099.0,Bank Transfer,Online
+1197,2026-09-15,34,22,2,59.0,0.0,118.0,Bank Transfer,Retail Store
+1198,2026-09-16,44,12,4,29.0,5.0,110.2,Credit Card,Retail Store
+1199,2026-09-16,55,9,3,79.0,0.0,237.0,Credit Card,Retail Store
+1200,2026-09-16,39,10,2,39.0,0.0,78.0,Debit Card,Partner
+1201,2026-09-16,12,11,3,19.0,0.0,57.0,PayPal,Retail Store
+1202,2026-09-17,4,9,1,79.0,0.0,79.0,Credit Card,Online
+1203,2026-09-17,58,11,4,19.0,5.0,72.2,Credit Card,Online
+1204,2026-09-17,40,14,1,49.0,15.0,41.65,Debit Card,Online
+1205,2026-09-17,1,17,1,549.0,0.0,549.0,Debit Card,Partner
+1206,2026-09-18,13,12,2,29.0,5.0,55.1,Credit Card,Online
+1207,2026-09-18,26,1,2,1150.0,0.0,2300.0,Credit Card,Retail Store
+1208,2026-09-18,7,6,1,1099.0,0.0,1099.0,PayPal,Partner
+1209,2026-09-18,12,4,1,799.0,0.0,799.0,PayPal,Online
+1210,2026-09-18,8,7,1,449.0,0.0,449.0,Debit Card,Online
+1211,2026-09-19,5,21,1,129.0,0.0,129.0,Credit Card,Online
+1212,2026-09-19,47,14,3,49.0,5.0,139.65,Credit Card,Online
+1213,2026-09-19,54,14,4,49.0,0.0,196.0,Credit Card,Retail Store
+1214,2026-09-19,13,10,1,39.0,0.0,39.0,Debit Card,Online
+1215,2026-09-19,7,10,1,39.0,0.0,39.0,Credit Card,Online
+1216,2026-09-20,31,19,2,49.0,15.0,83.3,Credit Card,Online
+1217,2026-09-20,40,11,1,19.0,0.0,19.0,Bank Transfer,Online
+1218,2026-09-20,36,5,1,399.0,0.0,399.0,Bank Transfer,Retail Store
+1219,2026-09-20,32,10,2,39.0,5.0,74.1,Debit Card,Partner
+1220,2026-09-21,13,1,1,1150.0,5.0,1092.5,Debit Card,Retail Store
+1221,2026-09-21,41,7,1,449.0,5.0,426.55,Credit Card,Retail Store
+1222,2026-09-21,59,17,1,549.0,5.0,521.55,Debit Card,Partner
+1223,2026-09-21,25,11,3,19.0,0.0,57.0,Credit Card,Online
+1224,2026-09-22,13,9,4,79.0,5.0,300.2,Credit Card,Online
+1225,2026-09-22,25,18,1,99.0,0.0,99.0,Debit Card,Retail Store
+1226,2026-09-22,20,5,1,399.0,10.0,359.1,Credit Card,Online
+1227,2026-09-22,60,16,1,329.0,0.0,329.0,Debit Card,Online
+1228,2026-09-23,47,5,1,399.0,5.0,379.05,Credit Card,Online
+1229,2026-09-23,59,10,3,39.0,0.0,117.0,Credit Card,Online
+1230,2026-09-23,48,7,2,449.0,0.0,898.0,Debit Card,Retail Store
+1231,2026-09-23,54,5,1,399.0,0.0,399.0,Credit Card,Online
+1232,2026-09-24,29,12,1,29.0,0.0,29.0,PayPal,Online
+1233,2026-09-24,39,21,1,129.0,0.0,129.0,Credit Card,Retail Store
+1234,2026-09-24,60,14,4,49.0,0.0,196.0,Credit Card,Online
+1235,2026-09-24,22,18,5,99.0,10.0,445.5,Bank Transfer,Retail Store
+1236,2026-09-24,22,2,1,1350.0,0.0,1350.0,Credit Card,Online
+1237,2026-09-25,47,18,1,99.0,5.0,94.05,PayPal,Online
+1238,2026-09-25,45,16,1,329.0,5.0,312.55,Debit Card,Online
+1239,2026-09-25,25,5,3,399.0,15.0,1017.45,PayPal,Online
+1240,2026-09-25,21,2,1,1350.0,0.0,1350.0,Credit Card,Retail Store
+1241,2026-09-25,25,11,1,19.0,0.0,19.0,Bank Transfer,Partner
+1242,2026-09-26,54,19,1,49.0,0.0,49.0,Credit Card,Online
+1243,2026-09-26,33,11,3,19.0,0.0,57.0,Credit Card,Retail Store
+1244,2026-09-26,15,12,1,29.0,10.0,26.1,Credit Card,Online
+1245,2026-09-26,7,12,1,29.0,0.0,29.0,PayPal,Retail Store
+1246,2026-09-26,6,10,2,39.0,0.0,78.0,Bank Transfer,Partner
+1247,2026-09-27,11,7,1,449.0,10.0,404.1,Credit Card,Online
+1248,2026-09-27,34,13,1,89.0,5.0,84.55,PayPal,Partner
+1249,2026-09-27,48,11,2,19.0,0.0,38.0,PayPal,Retail Store
+1250,2026-09-27,23,12,2,29.0,10.0,52.2,PayPal,Online
+1251,2026-09-28,6,4,1,799.0,10.0,719.1,PayPal,Online
+1252,2026-09-28,22,18,5,99.0,0.0,495.0,Credit Card,Online
+1253,2026-09-28,34,17,3,549.0,0.0,1647.0,Credit Card,Retail Store
+1254,2026-09-28,50,11,2,19.0,0.0,38.0,Credit Card,Online
+1255,2026-09-28,27,5,2,399.0,10.0,718.2,Debit Card,Online
+1256,2026-09-29,7,12,3,29.0,5.0,82.65,Debit Card,Online
+1257,2026-09-29,60,4,3,799.0,5.0,2277.15,Debit Card,Retail Store
+1258,2026-09-29,31,13,1,89.0,15.0,75.65,Credit Card,Retail Store
+1259,2026-09-29,10,13,3,89.0,5.0,253.65,Credit Card,Partner
+1260,2026-09-29,8,10,1,39.0,15.0,33.15,Debit Card,Retail Store
+1261,2026-09-30,35,9,2,79.0,15.0,134.3,PayPal,Online
+1262,2026-09-30,33,9,2,79.0,0.0,158.0,PayPal,Online
+1263,2026-09-30,7,14,2,49.0,10.0,88.2,PayPal,Retail Store
+1264,2026-09-30,27,5,1,399.0,5.0,379.05,Credit Card,Online
+1265,2026-10-01,48,13,1,89.0,5.0,84.55,Debit Card,Retail Store
+1266,2026-10-01,60,5,2,399.0,0.0,798.0,PayPal,Partner
+1267,2026-10-01,6,21,1,129.0,0.0,129.0,Bank Transfer,Retail Store
+1268,2026-10-01,39,21,1,129.0,0.0,129.0,Credit Card,Online
+1269,2026-10-01,31,12,4,29.0,5.0,110.2,Credit Card,Retail Store
+1270,2026-10-02,42,14,3,49.0,5.0,139.65,Credit Card,Retail Store
+1271,2026-10-02,22,4,1,799.0,0.0,799.0,Debit Card,Online
+1272,2026-10-02,1,11,2,19.0,0.0,38.0,PayPal,Retail Store
+1273,2026-10-02,8,10,2,39.0,0.0,78.0,Debit Card,Online
+1274,2026-10-02,4,19,1,49.0,0.0,49.0,PayPal,Online
+1275,2026-10-02,35,11,3,19.0,0.0,57.0,Debit Card,Retail Store
+1276,2026-10-03,49,4,1,799.0,15.0,679.15,PayPal,Online
+1277,2026-10-03,39,5,1,399.0,10.0,359.1,Credit Card,Online
+1278,2026-10-03,10,5,1,399.0,10.0,359.1,Credit Card,Partner
+1279,2026-10-03,31,9,1,79.0,0.0,79.0,Bank Transfer,Online
+1280,2026-10-03,15,20,1,119.0,5.0,113.05,Debit Card,Online
+1281,2026-10-03,38,13,1,89.0,15.0,75.65,Credit Card,Online
+1282,2026-10-04,7,16,1,329.0,0.0,329.0,Credit Card,Retail Store
+1283,2026-10-04,59,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+1284,2026-10-04,5,7,1,449.0,10.0,404.1,Credit Card,Online
+1285,2026-10-04,13,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+1286,2026-10-04,60,13,1,89.0,0.0,89.0,Debit Card,Retail Store
+1287,2026-10-05,25,5,3,399.0,0.0,1197.0,Credit Card,Retail Store
+1288,2026-10-05,5,4,1,799.0,0.0,799.0,Credit Card,Retail Store
+1289,2026-10-05,21,9,1,79.0,10.0,71.1,Credit Card,Online
+1290,2026-10-05,22,21,1,129.0,0.0,129.0,Bank Transfer,Online
+1291,2026-10-05,47,9,3,79.0,0.0,237.0,Debit Card,Retail Store
+1292,2026-10-06,35,11,3,19.0,0.0,57.0,Bank Transfer,Online
+1293,2026-10-06,20,14,4,49.0,0.0,196.0,Debit Card,Retail Store
+1294,2026-10-06,29,4,1,799.0,0.0,799.0,Credit Card,Online
+1295,2026-10-06,23,13,1,89.0,5.0,84.55,Bank Transfer,Retail Store
+1296,2026-10-06,13,11,2,19.0,0.0,38.0,Bank Transfer,Retail Store
+1297,2026-10-07,13,10,4,39.0,10.0,140.4,PayPal,Online
+1298,2026-10-07,54,20,1,119.0,0.0,119.0,Credit Card,Online
+1299,2026-10-07,47,20,1,119.0,0.0,119.0,PayPal,Retail Store
+1300,2026-10-07,31,18,5,99.0,0.0,495.0,Debit Card,Retail Store
+1301,2026-10-07,29,11,4,19.0,10.0,68.4,Debit Card,Online
+1302,2026-10-08,57,14,2,49.0,5.0,93.1,PayPal,Online
+1303,2026-10-08,47,20,2,119.0,10.0,214.2,Debit Card,Retail Store
+1304,2026-10-08,39,21,1,129.0,10.0,116.1,Debit Card,Online
+1305,2026-10-08,5,16,1,329.0,15.0,279.65,Credit Card,Online
+1306,2026-10-08,22,4,2,799.0,0.0,1598.0,Debit Card,Retail Store
+1307,2026-10-09,15,9,1,79.0,5.0,75.05,Debit Card,Online
+1308,2026-10-09,16,19,1,49.0,10.0,44.1,Credit Card,Online
+1309,2026-10-09,40,10,1,39.0,5.0,37.05,Credit Card,Online
+1310,2026-10-09,1,18,1,99.0,0.0,99.0,Credit Card,Online
+1311,2026-10-09,6,11,1,19.0,0.0,19.0,Debit Card,Online
+1312,2026-10-09,42,6,1,1099.0,0.0,1099.0,Credit Card,Online
+1313,2026-10-10,7,10,3,39.0,0.0,117.0,Credit Card,Online
+1314,2026-10-10,21,18,1,99.0,0.0,99.0,Credit Card,Online
+1315,2026-10-10,47,19,1,49.0,0.0,49.0,Debit Card,Retail Store
+1316,2026-10-10,13,10,2,39.0,5.0,74.1,PayPal,Online
+1317,2026-10-10,48,18,1,99.0,10.0,89.1,PayPal,Online
+1318,2026-10-10,7,4,1,799.0,0.0,799.0,Debit Card,Retail Store
+1319,2026-10-11,42,9,4,79.0,5.0,300.2,Credit Card,Online
+1320,2026-10-11,30,14,1,49.0,0.0,49.0,Debit Card,Online
+1321,2026-10-11,48,18,5,99.0,0.0,495.0,PayPal,Online
+1322,2026-10-11,46,15,2,129.0,0.0,258.0,Credit Card,Partner
+1323,2026-10-11,39,12,1,29.0,0.0,29.0,Credit Card,Partner
+1324,2026-10-12,25,11,1,19.0,0.0,19.0,Credit Card,Online
+1325,2026-10-12,40,6,1,1099.0,0.0,1099.0,Debit Card,Retail Store
+1326,2026-10-12,16,8,1,249.0,0.0,249.0,Credit Card,Online
+1327,2026-10-12,4,2,1,1350.0,5.0,1282.5,Credit Card,Online
+1328,2026-10-12,56,4,1,799.0,10.0,719.1,Credit Card,Online
+1329,2026-10-13,1,11,3,19.0,0.0,57.0,PayPal,Online
+1330,2026-10-13,49,11,1,19.0,5.0,18.05,Credit Card,Online
+1331,2026-10-13,55,4,1,799.0,0.0,799.0,Debit Card,Partner
+1332,2026-10-13,41,5,1,399.0,10.0,359.1,Credit Card,Online
+1333,2026-10-13,20,13,4,89.0,0.0,356.0,PayPal,Online
+1334,2026-10-13,9,11,1,19.0,10.0,17.1,PayPal,Partner
+1335,2026-10-14,55,10,2,39.0,10.0,70.2,Credit Card,Online
+1336,2026-10-14,59,11,1,19.0,0.0,19.0,Debit Card,Online
+1337,2026-10-14,3,11,2,19.0,5.0,36.1,PayPal,Online
+1338,2026-10-14,43,18,5,99.0,0.0,495.0,PayPal,Online
+1339,2026-10-14,49,10,1,39.0,0.0,39.0,Credit Card,Online
+1340,2026-10-15,55,14,1,49.0,5.0,46.55,Debit Card,Online
+1341,2026-10-15,11,13,2,89.0,0.0,178.0,Credit Card,Online
+1342,2026-10-15,3,5,2,399.0,10.0,718.2,Credit Card,Retail Store
+1343,2026-10-15,40,7,1,449.0,0.0,449.0,Credit Card,Online
+1344,2026-10-15,39,9,1,79.0,5.0,75.05,Debit Card,Retail Store
+1345,2026-10-16,40,9,1,79.0,10.0,71.1,PayPal,Online
+1346,2026-10-16,59,5,3,399.0,0.0,1197.0,Bank Transfer,Retail Store
+1347,2026-10-16,49,4,1,799.0,0.0,799.0,Debit Card,Partner
+1348,2026-10-16,40,11,3,19.0,0.0,57.0,Credit Card,Retail Store
+1349,2026-10-16,50,14,1,49.0,0.0,49.0,PayPal,Online
+1350,2026-10-16,56,4,1,799.0,0.0,799.0,PayPal,Online
+1351,2026-10-17,47,12,1,29.0,0.0,29.0,Credit Card,Online
+1352,2026-10-17,39,4,1,799.0,0.0,799.0,Bank Transfer,Partner
+1353,2026-10-17,7,11,2,19.0,10.0,34.2,Debit Card,Online
+1354,2026-10-17,1,16,1,329.0,5.0,312.55,Credit Card,Online
+1355,2026-10-17,5,5,1,399.0,0.0,399.0,Bank Transfer,Partner
+1356,2026-10-17,7,13,1,89.0,5.0,84.55,Credit Card,Online
+1357,2026-10-18,26,5,1,399.0,0.0,399.0,Credit Card,Retail Store
+1358,2026-10-18,40,4,1,799.0,0.0,799.0,Credit Card,Online
+1359,2026-10-18,52,5,2,399.0,0.0,798.0,Credit Card,Online
+1360,2026-10-18,41,6,2,1099.0,0.0,2198.0,PayPal,Retail Store
+1361,2026-10-18,7,5,1,399.0,0.0,399.0,Bank Transfer,Online
+1362,2026-10-19,7,19,2,49.0,10.0,88.2,Debit Card,Online
+1363,2026-10-19,34,11,2,19.0,0.0,38.0,Debit Card,Online
+1364,2026-10-19,50,9,1,79.0,10.0,71.1,Debit Card,Partner
+1365,2026-10-19,50,13,1,89.0,0.0,89.0,Bank Transfer,Online
+1366,2026-10-19,42,9,1,79.0,5.0,75.05,PayPal,Online
+1367,2026-10-20,38,21,1,129.0,0.0,129.0,Bank Transfer,Online
+1368,2026-10-20,23,9,1,79.0,5.0,75.05,Credit Card,Retail Store
+1369,2026-10-20,19,15,2,129.0,0.0,258.0,Credit Card,Online
+1370,2026-10-20,34,11,3,19.0,0.0,57.0,Debit Card,Online
+1371,2026-10-20,38,12,2,29.0,5.0,55.1,Credit Card,Online
+1372,2026-10-20,60,1,1,1150.0,15.0,977.5,Bank Transfer,Online
+1373,2026-10-21,53,18,2,99.0,0.0,198.0,Credit Card,Partner
+1374,2026-10-21,59,19,1,49.0,10.0,44.1,Credit Card,Online
+1375,2026-10-21,59,13,1,89.0,0.0,89.0,Bank Transfer,Online
+1376,2026-10-21,45,12,1,29.0,10.0,26.1,PayPal,Online
+1377,2026-10-21,22,4,1,799.0,0.0,799.0,PayPal,Online
+1378,2026-10-22,47,14,2,49.0,0.0,98.0,Credit Card,Online
+1379,2026-10-22,49,13,1,89.0,0.0,89.0,PayPal,Online
+1380,2026-10-22,48,11,1,19.0,10.0,17.1,Debit Card,Partner
+1381,2026-10-22,35,16,2,329.0,0.0,658.0,PayPal,Online
+1382,2026-10-22,7,21,1,129.0,15.0,109.65,Credit Card,Online
+1383,2026-10-23,11,5,1,399.0,0.0,399.0,PayPal,Retail Store
+1384,2026-10-23,28,9,2,79.0,10.0,142.2,Credit Card,Retail Store
+1385,2026-10-23,41,5,1,399.0,0.0,399.0,Debit Card,Retail Store
+1386,2026-10-23,1,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+1387,2026-10-23,16,11,2,19.0,0.0,38.0,Credit Card,Partner
+1388,2026-10-23,36,11,2,19.0,0.0,38.0,Credit Card,Partner
+1389,2026-10-24,20,9,1,79.0,0.0,79.0,PayPal,Retail Store
+1390,2026-10-24,60,13,1,89.0,0.0,89.0,PayPal,Online
+1391,2026-10-24,50,5,1,399.0,0.0,399.0,Debit Card,Partner
+1392,2026-10-24,14,5,1,399.0,10.0,359.1,Credit Card,Retail Store
+1393,2026-10-24,55,15,2,129.0,5.0,245.1,Credit Card,Partner
+1394,2026-10-24,32,13,2,89.0,10.0,160.2,Credit Card,Retail Store
+1395,2026-10-25,21,18,1,99.0,10.0,89.1,PayPal,Online
+1396,2026-10-25,10,11,1,19.0,0.0,19.0,Debit Card,Online
+1397,2026-10-25,50,5,2,399.0,0.0,798.0,Bank Transfer,Retail Store
+1398,2026-10-25,6,4,1,799.0,10.0,719.1,Credit Card,Online
+1399,2026-10-25,21,4,1,799.0,5.0,759.05,Credit Card,Online
+1400,2026-10-26,55,12,1,29.0,0.0,29.0,Debit Card,Online
+1401,2026-10-26,54,10,3,39.0,10.0,105.3,Credit Card,Online
+1402,2026-10-26,53,20,1,119.0,5.0,113.05,Debit Card,Online
+1403,2026-10-26,55,12,2,29.0,5.0,55.1,PayPal,Online
+1404,2026-10-26,50,1,1,1150.0,0.0,1150.0,Credit Card,Online
+1405,2026-10-27,24,10,1,39.0,0.0,39.0,Debit Card,Partner
+1406,2026-10-27,28,4,1,799.0,10.0,719.1,Bank Transfer,Retail Store
+1407,2026-10-27,10,9,1,79.0,15.0,67.15,Debit Card,Retail Store
+1408,2026-10-27,29,9,1,79.0,0.0,79.0,Debit Card,Retail Store
+1409,2026-10-27,17,1,1,1150.0,0.0,1150.0,Bank Transfer,Online
+1410,2026-10-27,25,10,1,39.0,10.0,35.1,Bank Transfer,Retail Store
+1411,2026-10-28,40,4,1,799.0,0.0,799.0,Credit Card,Retail Store
+1412,2026-10-28,55,11,2,19.0,0.0,38.0,PayPal,Online
+1413,2026-10-28,56,9,2,79.0,0.0,158.0,Credit Card,Online
+1414,2026-10-28,29,12,1,29.0,5.0,27.55,Credit Card,Retail Store
+1415,2026-10-28,24,1,1,1150.0,0.0,1150.0,Credit Card,Retail Store
+1416,2026-10-29,18,21,2,129.0,5.0,245.1,PayPal,Online
+1417,2026-10-29,7,10,1,39.0,10.0,35.1,Credit Card,Partner
+1418,2026-10-29,25,11,1,19.0,0.0,19.0,PayPal,Online
+1419,2026-10-29,26,21,1,129.0,0.0,129.0,Bank Transfer,Online
+1420,2026-10-29,35,5,1,399.0,0.0,399.0,Bank Transfer,Partner
+1421,2026-10-30,1,16,1,329.0,10.0,296.1,Debit Card,Partner
+1422,2026-10-30,45,12,1,29.0,0.0,29.0,Credit Card,Online
+1423,2026-10-30,33,14,1,49.0,0.0,49.0,Credit Card,Online
+1424,2026-10-30,39,11,1,19.0,10.0,17.1,Debit Card,Online
+1425,2026-10-30,13,12,4,29.0,10.0,104.4,Bank Transfer,Retail Store
+1426,2026-10-30,7,12,2,29.0,0.0,58.0,Debit Card,Retail Store
+1427,2026-10-31,7,10,2,39.0,0.0,78.0,Credit Card,Online
+1428,2026-10-31,11,10,1,39.0,0.0,39.0,Debit Card,Online
+1429,2026-10-31,59,19,1,49.0,10.0,44.1,PayPal,Retail Store
+1430,2026-10-31,1,9,1,79.0,0.0,79.0,PayPal,Online
+1431,2026-10-31,52,14,1,49.0,0.0,49.0,Bank Transfer,Online
+1432,2026-10-31,1,5,1,399.0,10.0,359.1,PayPal,Retail Store
+1433,2026-11-01,59,22,1,59.0,15.0,50.15,Credit Card,Retail Store
+1434,2026-11-01,51,14,2,49.0,0.0,98.0,Debit Card,Partner
+1435,2026-11-01,7,19,1,49.0,0.0,49.0,Credit Card,Retail Store
+1436,2026-11-01,31,12,2,29.0,10.0,52.2,Debit Card,Online
+1437,2026-11-01,35,20,1,119.0,0.0,119.0,Credit Card,Retail Store
+1438,2026-11-01,39,1,1,1150.0,10.0,1035.0,Credit Card,Online
+1439,2026-11-02,7,10,2,39.0,0.0,78.0,Credit Card,Partner
+1440,2026-11-02,15,11,1,19.0,5.0,18.05,PayPal,Retail Store
+1441,2026-11-02,42,9,4,79.0,5.0,300.2,Debit Card,Retail Store
+1442,2026-11-02,7,10,2,39.0,0.0,78.0,Credit Card,Partner
+1443,2026-11-02,6,10,1,39.0,10.0,35.1,Credit Card,Online
+1444,2026-11-02,1,4,2,799.0,0.0,1598.0,Debit Card,Online
+1445,2026-11-03,56,15,1,129.0,0.0,129.0,Credit Card,Retail Store
+1446,2026-11-03,39,1,3,1150.0,15.0,2932.5,Debit Card,Retail Store
+1447,2026-11-03,35,5,1,399.0,10.0,359.1,Credit Card,Online
+1448,2026-11-03,1,11,1,19.0,10.0,17.1,Credit Card,Online
+1449,2026-11-03,18,6,1,1099.0,10.0,989.1,Credit Card,Online
+1450,2026-11-03,59,9,2,79.0,0.0,158.0,PayPal,Online
+1451,2026-11-04,25,5,1,399.0,5.0,379.05,PayPal,Online
+1452,2026-11-04,24,11,2,19.0,0.0,38.0,PayPal,Partner
+1453,2026-11-04,30,18,1,99.0,5.0,94.05,PayPal,Retail Store
+1454,2026-11-04,39,10,2,39.0,0.0,78.0,Debit Card,Online
+1455,2026-11-04,7,1,1,1150.0,0.0,1150.0,Credit Card,Retail Store
+1456,2026-11-04,41,21,1,129.0,0.0,129.0,Credit Card,Online
+1457,2026-11-05,21,4,1,799.0,0.0,799.0,PayPal,Online
+1458,2026-11-05,17,1,1,1150.0,0.0,1150.0,PayPal,Partner
+1459,2026-11-05,36,10,2,39.0,0.0,78.0,Credit Card,Online
+1460,2026-11-05,39,18,2,99.0,0.0,198.0,PayPal,Online
+1461,2026-11-05,48,9,1,79.0,0.0,79.0,PayPal,Online
+1462,2026-11-05,60,10,1,39.0,0.0,39.0,Credit Card,Online
+1463,2026-11-06,13,12,3,29.0,15.0,73.95,Bank Transfer,Online
+1464,2026-11-06,52,10,3,39.0,10.0,105.3,Credit Card,Retail Store
+1465,2026-11-06,5,4,1,799.0,5.0,759.05,Credit Card,Retail Store
+1466,2026-11-06,25,11,1,19.0,5.0,18.05,Credit Card,Retail Store
+1467,2026-11-06,26,17,2,549.0,0.0,1098.0,Credit Card,Retail Store
+1468,2026-11-06,1,2,1,1350.0,0.0,1350.0,Credit Card,Retail Store
+1469,2026-11-06,26,5,1,399.0,10.0,359.1,Credit Card,Partner
+1470,2026-11-07,59,18,1,99.0,5.0,94.05,Credit Card,Partner
+1471,2026-11-07,5,9,2,79.0,10.0,142.2,Credit Card,Online
+1472,2026-11-07,7,10,1,39.0,10.0,35.1,PayPal,Partner
+1473,2026-11-07,59,10,1,39.0,0.0,39.0,Debit Card,Retail Store
+1474,2026-11-07,42,21,1,129.0,5.0,122.55,Credit Card,Online
+1475,2026-11-07,15,4,1,799.0,10.0,719.1,Debit Card,Retail Store
+1476,2026-11-07,10,4,3,799.0,0.0,2397.0,Credit Card,Online
+1477,2026-11-08,8,4,1,799.0,0.0,799.0,Debit Card,Partner
+1478,2026-11-08,48,9,1,79.0,0.0,79.0,Debit Card,Partner
+1479,2026-11-08,11,9,4,79.0,10.0,284.4,Debit Card,Retail Store
+1480,2026-11-08,8,9,1,79.0,0.0,79.0,PayPal,Retail Store
+1481,2026-11-08,7,18,1,99.0,0.0,99.0,PayPal,Online
+1482,2026-11-08,1,12,1,29.0,0.0,29.0,Bank Transfer,Online
+1483,2026-11-09,7,11,1,19.0,0.0,19.0,Credit Card,Online
+1484,2026-11-09,41,13,1,89.0,0.0,89.0,Credit Card,Retail Store
+1485,2026-11-09,34,10,1,39.0,5.0,37.05,Debit Card,Partner
+1486,2026-11-09,11,2,1,1350.0,0.0,1350.0,Credit Card,Online
+1487,2026-11-09,12,12,2,29.0,0.0,58.0,Credit Card,Retail Store
+1488,2026-11-09,55,8,1,249.0,5.0,236.55,Credit Card,Online
+1489,2026-11-10,47,4,1,799.0,5.0,759.05,Debit Card,Online
+1490,2026-11-10,56,7,1,449.0,0.0,449.0,Credit Card,Partner
+1491,2026-11-10,7,1,1,1150.0,0.0,1150.0,Credit Card,Online
+1492,2026-11-10,5,12,3,29.0,0.0,87.0,Bank Transfer,Retail Store
+1493,2026-11-10,31,7,1,449.0,10.0,404.1,Debit Card,Partner
+1494,2026-11-10,51,11,1,19.0,0.0,19.0,Credit Card,Online
+1495,2026-11-11,26,13,4,89.0,0.0,356.0,Debit Card,Online
+1496,2026-11-11,1,9,2,79.0,10.0,142.2,PayPal,Partner
+1497,2026-11-11,56,11,1,19.0,5.0,18.05,PayPal,Online
+1498,2026-11-11,60,18,1,99.0,0.0,99.0,Debit Card,Online
+1499,2026-11-11,47,21,1,129.0,5.0,122.55,Credit Card,Partner
+1500,2026-11-11,40,21,2,129.0,5.0,245.1,PayPal,Online
+1501,2026-11-12,33,8,1,249.0,10.0,224.1,Credit Card,Online
+1502,2026-11-12,60,9,1,79.0,0.0,79.0,Credit Card,Retail Store
+1503,2026-11-12,26,10,4,39.0,5.0,148.2,Credit Card,Partner
+1504,2026-11-12,31,12,1,29.0,0.0,29.0,Bank Transfer,Retail Store
+1505,2026-11-12,42,9,1,79.0,5.0,75.05,Credit Card,Online
+1506,2026-11-12,13,11,1,19.0,0.0,19.0,Credit Card,Retail Store
+1507,2026-11-13,13,9,1,79.0,10.0,71.1,Debit Card,Retail Store
+1508,2026-11-13,7,4,1,799.0,15.0,679.15,Credit Card,Retail Store
+1509,2026-11-13,5,6,1,1099.0,0.0,1099.0,PayPal,Retail Store
+1510,2026-11-13,25,21,1,129.0,0.0,129.0,Credit Card,Online
+1511,2026-11-13,36,12,1,29.0,0.0,29.0,Debit Card,Online
+1512,2026-11-13,7,11,1,19.0,0.0,19.0,Debit Card,Retail Store
+1513,2026-11-13,35,9,3,79.0,0.0,237.0,Credit Card,Online
+1514,2026-11-13,17,20,1,119.0,0.0,119.0,Credit Card,Online
+1515,2026-11-14,1,11,4,19.0,0.0,76.0,PayPal,Retail Store
+1516,2026-11-14,16,7,1,449.0,0.0,449.0,Debit Card,Retail Store
+1517,2026-11-14,14,14,1,49.0,0.0,49.0,Credit Card,Retail Store
+1518,2026-11-14,55,10,1,39.0,0.0,39.0,PayPal,Retail Store
+1519,2026-11-14,19,4,1,799.0,0.0,799.0,Credit Card,Online
+1520,2026-11-14,47,12,2,29.0,0.0,58.0,Credit Card,Online
+1521,2026-11-14,47,11,1,19.0,5.0,18.05,PayPal,Online
+1522,2026-11-15,60,1,1,1150.0,5.0,1092.5,Credit Card,Online
+1523,2026-11-15,39,4,1,799.0,0.0,799.0,Debit Card,Retail Store
+1524,2026-11-15,26,2,1,1350.0,0.0,1350.0,Bank Transfer,Retail Store
+1525,2026-11-15,52,11,3,19.0,5.0,54.15,PayPal,Retail Store
+1526,2026-11-15,26,12,1,29.0,10.0,26.1,Debit Card,Online
+1527,2026-11-15,47,11,1,19.0,0.0,19.0,Debit Card,Partner
+1528,2026-11-16,42,10,2,39.0,0.0,78.0,Credit Card,Online
+1529,2026-11-16,1,10,2,39.0,0.0,78.0,Credit Card,Retail Store
+1530,2026-11-16,55,12,1,29.0,10.0,26.1,Bank Transfer,Online
+1531,2026-11-16,47,9,4,79.0,0.0,316.0,PayPal,Online
+1532,2026-11-16,20,13,1,89.0,0.0,89.0,Debit Card,Online
+1533,2026-11-16,47,9,2,79.0,5.0,150.1,Credit Card,Retail Store
+1534,2026-11-17,24,19,1,49.0,0.0,49.0,Debit Card,Retail Store
+1535,2026-11-17,38,19,1,49.0,0.0,49.0,Credit Card,Online
+1536,2026-11-17,59,9,2,79.0,0.0,158.0,Credit Card,Partner
+1537,2026-11-17,7,4,1,799.0,10.0,719.1,Debit Card,Retail Store
+1538,2026-11-17,60,15,2,129.0,0.0,258.0,PayPal,Online
+1539,2026-11-17,55,14,1,49.0,0.0,49.0,Debit Card,Online
+1540,2026-11-18,5,14,2,49.0,10.0,88.2,Bank Transfer,Online
+1541,2026-11-18,45,9,4,79.0,0.0,316.0,Credit Card,Online
+1542,2026-11-18,26,9,1,79.0,0.0,79.0,PayPal,Retail Store
+1543,2026-11-18,9,11,2,19.0,5.0,36.1,Credit Card,Retail Store
+1544,2026-11-18,55,9,1,79.0,0.0,79.0,Credit Card,Online
+1545,2026-11-18,47,19,1,49.0,0.0,49.0,PayPal,Retail Store
+1546,2026-11-19,20,12,2,29.0,0.0,58.0,Credit Card,Online
+1547,2026-11-19,22,4,1,799.0,5.0,759.05,Credit Card,Online
+1548,2026-11-19,12,11,1,19.0,0.0,19.0,Bank Transfer,Partner
+1549,2026-11-19,13,13,1,89.0,10.0,80.1,Bank Transfer,Online
+1550,2026-11-19,38,18,2,99.0,0.0,198.0,Credit Card,Online
+1551,2026-11-19,44,4,1,799.0,10.0,719.1,Credit Card,Online
+1552,2026-11-20,13,9,2,79.0,0.0,158.0,Debit Card,Retail Store
+1553,2026-11-20,58,12,3,29.0,0.0,87.0,Credit Card,Partner
+1554,2026-11-20,56,13,2,89.0,0.0,178.0,Bank Transfer,Partner
+1555,2026-11-20,39,11,1,19.0,0.0,19.0,Bank Transfer,Online
+1556,2026-11-20,3,1,1,1150.0,5.0,1092.5,Credit Card,Online
+1557,2026-11-20,53,21,1,129.0,0.0,129.0,PayPal,Retail Store
+1558,2026-11-20,34,18,1,99.0,5.0,94.05,Debit Card,Online
+1559,2026-11-21,44,10,1,39.0,0.0,39.0,Credit Card,Partner
+1560,2026-11-21,60,9,1,79.0,0.0,79.0,Credit Card,Online
+1561,2026-11-21,39,6,1,1099.0,10.0,989.1,PayPal,Retail Store
+1562,2026-11-21,60,1,1,1150.0,10.0,1035.0,Credit Card,Online
+1563,2026-11-21,8,2,1,1350.0,5.0,1282.5,Credit Card,Online
+1564,2026-11-21,39,10,1,39.0,0.0,39.0,Credit Card,Online
+1565,2026-11-21,31,13,1,89.0,10.0,80.1,Credit Card,Retail Store
+1566,2026-11-22,49,9,2,79.0,0.0,158.0,Credit Card,Retail Store
+1567,2026-11-22,31,2,2,1350.0,5.0,2565.0,Debit Card,Online
+1568,2026-11-22,10,5,3,399.0,0.0,1197.0,PayPal,Online
+1569,2026-11-22,22,16,1,329.0,15.0,279.65,Debit Card,Retail Store
+1570,2026-11-22,26,4,1,799.0,0.0,799.0,Credit Card,Online
+1571,2026-11-22,50,4,1,799.0,5.0,759.05,Debit Card,Partner
+1572,2026-11-23,3,6,1,1099.0,0.0,1099.0,Credit Card,Online
+1573,2026-11-23,34,9,1,79.0,5.0,75.05,PayPal,Partner
+1574,2026-11-23,56,15,2,129.0,5.0,245.1,Credit Card,Retail Store
+1575,2026-11-23,26,10,2,39.0,5.0,74.1,Credit Card,Online
+1576,2026-11-23,24,13,2,89.0,10.0,160.2,Bank Transfer,Online
+1577,2026-11-23,37,11,1,19.0,0.0,19.0,Credit Card,Retail Store

@@ -1,0 +1,23 @@
+product_id,name,category,unit_price,cost,stock
+1,ProBook 14 Laptop,Laptops,1150.0,820.0,40
+2,UltraSlim 13 Laptop,Laptops,1350.0,950.0,25
+3,WorkStation 16 Laptop,Laptops,1850.0,1350.0,12
+4,Nova X Smartphone,Phones,799.0,520.0,120
+5,Nova Lite Smartphone,Phones,399.0,250.0,200
+6,Nova Max Pro Smartphone,Phones,1099.0,720.0,45
+7,TabPlus 11 Tablet,Tablets,449.0,300.0,60
+8,TabMini 8 Tablet,Tablets,249.0,160.0,80
+9,AeroBuds Wireless Earbuds,Accessories,79.0,32.0,22
+10,ChargeFast 65W Charger,Accessories,39.0,14.0,18
+11,ShieldCase Phone Case,Accessories,19.0,5.0,300
+12,ErgoMouse Wireless Mouse,Accessories,29.0,11.0,150
+13,MechKey Keyboard,Accessories,89.0,45.0,70
+14,USB-C Hub 7-in-1,Accessories,49.0,22.0,95
+15,4K Webcam Pro,Accessories,129.0,70.0,35
+16,ClearView 27 Monitor,Displays,329.0,220.0,30
+17,ClearView 32 4K Monitor,Displays,549.0,390.0,14
+18,OfficeSuite 1-Year License,Software,99.0,20.0,9999
+19,SecureNet Antivirus,Software,49.0,10.0,9999
+20,CloudBackup 1TB Plan,Software,119.0,40.0,9999
+21,Extended Warranty 2-Year,Services,129.0,30.0,9999
+22,Setup and Install Service,Services,59.0,20.0,9999

@@ -1,0 +1,61 @@
+crm_id,email,lead_status,account_owner,last_contact_date,notes
+CRM-0001,fatima.davis1@example.com,Active customer,Maya Collins,2026-07-27,Asked about volume pricing.
+CRM-0002,ava.xu2@example.com,Needs follow-up,Sara Lindqvist,2026-08-12,Prefers email contact.
+CRM-0003,mei.nguyen3@example.com,At risk,Sara Lindqvist,2026-10-22,Asked about volume pricing.
+CRM-0004,priya.taylor4@example.com,Active customer,Sara Lindqvist,2026-09-10,Asked about volume pricing.
+CRM-0005,mason.owens5@example.com,Needs follow-up,Maya Collins,2026-10-19,Prefers email contact.
+CRM-0006,elena.nguyen6@example.com,Needs follow-up,Sara Lindqvist,2026-10-14,Asked about volume pricing.
+CRM-0007,noah.clark7@example.com,Active customer,Tom Becker,2026-08-06,Prefers email contact.
+CRM-0008,lars.brown8@example.com,Active customer,Maya Collins,2026-09-27,Asked about volume pricing.
+CRM-0009,emma.reed9@example.com,Needs follow-up,Daniel Okafor,2026-09-22,Renewal discussion planned.
+CRM-0010,mei.garcia10@example.com,Needs follow-up,Maya Collins,2026-11-15,Asked about volume pricing.
+CRM-0011,sofia.johnson11@example.com,Needs follow-up,Sara Lindqvist,2026-07-31,Prefers email contact.
+CRM-0012,isabella.owens12@example.com,Active customer,Sara Lindqvist,2026-09-27,Asked about volume pricing.
+CRM-0013,aiden.garcia13@example.com,Active customer,Daniel Okafor,2026-08-03,Interested in extended warranty.
+CRM-0014,hiroshi.usman14@example.com,New lead,Maya Collins,2026-11-04,Interested in extended warranty.
+CRM-0015,harper.miller15@example.com,Needs follow-up,Daniel Okafor,2026-11-08,No open issues.
+CRM-0016,omar.khan16@example.com,Active customer,Sara Lindqvist,2026-08-04,Prefers email contact.
+CRM-0017,amelia.ito17@example.com,Needs follow-up,Maya Collins,2026-09-13,Asked about volume pricing.
+CRM-0018,sophia.usman18@example.com,Active customer,Sara Lindqvist,2026-10-21,No open issues.
+CRM-0019,ava.ito19@example.com,Active customer,Daniel Okafor,2026-08-23,Asked about volume pricing.
+CRM-0020,mateo.singh20@example.com,Active customer,Tom Becker,2026-11-09,Prefers email contact.
+CRM-0021,mason.evans21@example.com,Active customer,Daniel Okafor,2026-09-18,Asked about volume pricing.
+CRM-0022,chen.davis22@example.com,Active customer,Tom Becker,2026-09-10,Prefers email contact.
+CRM-0023,hiroshi.clark23@example.com,Active customer,Sara Lindqvist,2026-09-01,Interested in extended warranty.
+CRM-0024,isabella.reed24@example.com,Active customer,Sara Lindqvist,2026-11-19,Asked about volume pricing.
+CRM-0025,sofia.ito25@example.com,New lead,Sara Lindqvist,2026-10-01,Renewal discussion planned.
+CRM-0026,ethan.owens26@example.com,Needs follow-up,Daniel Okafor,2026-10-16,Asked about volume pricing.
+CRM-0027,priya.young27@example.com,Active customer,Daniel Okafor,2026-11-17,No open issues.
+CRM-0028,ingrid.usman28@example.com,Active customer,Daniel Okafor,2026-11-19,Asked about volume pricing.
+CRM-0029,sofia.foster29@example.com,Needs follow-up,Sara Lindqvist,2026-09-18,Interested in extended warranty.
+CRM-0030,hiroshi.khan30@example.com,At risk,Maya Collins,2026-10-05,Interested in extended warranty.
+CRM-0031,mason.brown31@example.com,At risk,Maya Collins,2026-10-05,Prefers email contact.
+CRM-0032,mateo.patel32@example.com,New lead,Tom Becker,2026-07-26,No open issues.
+CRM-0033,ava.vargas33@example.com,Active customer,Maya Collins,2026-08-21,No open issues.
+CRM-0034,priya.rossi34@example.com,Needs follow-up,Tom Becker,2026-09-23,Asked about volume pricing.
+CRM-0035,elena.johnson35@example.com,Active customer,Sara Lindqvist,2026-10-19,Interested in extended warranty.
+CRM-0036,harper.silva36@example.com,Active customer,Sara Lindqvist,2026-10-11,Interested in extended warranty.
+CRM-0037,emma.khan37@example.com,Active customer,Maya Collins,2026-09-25,Interested in extended warranty.
+CRM-0038,olivia.clark38@example.com,Needs follow-up,Tom Becker,2026-09-27,Asked about volume pricing.
+CRM-0039,aisha.brown39@example.com,Active customer,Maya Collins,2026-11-12,Asked about volume pricing.
+CRM-0040,omar.patel40@example.com,Active customer,Daniel Okafor,2026-08-31,Renewal discussion planned.
+CRM-0041,mason.zimmer41@example.com,Active customer,Daniel Okafor,2026-08-14,No open issues.
+CRM-0042,noah.vargas42@example.com,At risk,Tom Becker,2026-10-22,No open issues.
+CRM-0043,chen.xu43@example.com,Active customer,Sara Lindqvist,2026-08-29,Asked about volume pricing.
+CRM-0044,liam.miller44@example.com,Active customer,Maya Collins,2026-10-10,Renewal discussion planned.
+CRM-0045,sophia.garcia45@example.com,Active customer,Daniel Okafor,2026-09-30,No open issues.
+CRM-0046,mason.rossi46@example.com,Needs follow-up,Daniel Okafor,2026-09-20,Interested in extended warranty.
+CRM-0047,liam.usman47@example.com,Active customer,Daniel Okafor,2026-08-02,Prefers email contact.
+CRM-0048,ethan.nguyen48@example.com,Active customer,Tom Becker,2026-09-30,Prefers email contact.
+CRM-0049,ethan.miller49@example.com,New lead,Tom Becker,2026-11-06,Prefers email contact.
+CRM-0050,lucas.nguyen50@example.com,Active customer,Maya Collins,2026-08-26,Interested in extended warranty.
+CRM-0051,ava.garcia51@example.com,New lead,Tom Becker,2026-09-18,Renewal discussion planned.
+CRM-0052,mateo.khan52@example.com,Active customer,Daniel Okafor,2026-10-08,Asked about volume pricing.
+CRM-0053,rahul.rossi53@example.com,Active customer,Sara Lindqvist,2026-11-07,No open issues.
+CRM-0054,chen.foster54@example.com,Needs follow-up,Maya Collins,2026-09-06,Prefers email contact.
+CRM-0055,amelia.davis55@example.com,New lead,Tom Becker,2026-08-20,Renewal discussion planned.
+CRM-0056,james.vargas56@example.com,Active customer,Tom Becker,2026-09-03,Asked about volume pricing.
+CRM-0057,sophia.vargas57@example.com,Active customer,Daniel Okafor,2026-08-18,Interested in extended warranty.
+CRM-0058,fatima.johnson58@example.com,At risk,Maya Collins,2026-08-22,Interested in extended warranty.
+CRM-0059,olivia.owens59@example.com,Active customer,Sara Lindqvist,2026-07-31,Renewal discussion planned.
+CRM-0060,arjun.garcia60@example.com,Active customer,Daniel Okafor,2026-10-05,No open issues.

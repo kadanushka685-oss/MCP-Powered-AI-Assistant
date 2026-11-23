@@ -1,0 +1,10 @@
+# Core packages (needed for the full demo)
+streamlit>=1.40
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+reportlab>=4.0
+
+# MCP (FastMCP server + client) and Claude API
+mcp>=1.2
+anthropic>=0.40

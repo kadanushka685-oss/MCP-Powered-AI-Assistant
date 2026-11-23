@@ -1,0 +1,4 @@
+# Only needed if you switch on the real integrations (see README)
+psycopg2-binary>=2.9   # PostgreSQL adapter
+gspread>=6.0           # Google Sheets adapter
+pytest>=8.0            # optional: run tests with pytest instead of unittest
