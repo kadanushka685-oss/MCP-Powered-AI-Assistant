@@ -272,22 +272,45 @@ dashboards per region/channel.
 | Claude call failed | Check the key in `.env`, the `CLAUDE_MODEL` name and your internet; the app falls back to demo mode |
 | Details of any error | Open `logs/app.log` |
 
+
+
 ## 📸 Project Screenshots
 
 ### 1. Dashboard
-![Dashboard](screenshots/dashboard.png)
+
+![Dashboard 1](screenshots/dashboard1.png)
+
+![Dashboard 2](screenshots/dashboard2.png)
+
+![Dashboard 3](screenshots/dashboard3.png)
 
 ### 2. AI Assistant
-![AI Assistant](screenshots/ai-assistant.png)
+
+![AI Assistant 1](screenshots/ai-assistant1.png)
+
+![AI Assistant 2](screenshots/ai-assistant2.png)
+
+![AI Assistant 3](screenshots/ai-assistant3.png)
+
+![AI Assistant 4](screenshots/ai-assistant4.png)
 
 ### 3. Reports
+
 ![Reports](screenshots/reports.png)
 
 ### 4. Tools and History
+
 ![Tools and History](screenshots/tools-history.png)
 
 ### 5. Integrations
-![Integrations](screenshots/integrations.png)
+
+![Integrations 1](screenshots/integrations1.png)
+
+![Integrations 2](screenshots/integrations2.png)
+
+![Integrations 3](screenshots/integrations3.png)
+
+![Integrations 4](screenshots/integrations4.png)
 
 ## 📄 Sample Sales Report
 
