@@ -312,6 +312,12 @@ dashboards per region/channel.
 
 ![Integrations 4](screenshots/integrations4.png)
 
-## 📄 Sample Sales Report
+## 📄 Sample Sales Report – October 2026
 
-[View Sample Sales Report (PDF)](reports/sample_sales_report_october_2026.pdf)
+### Report Preview – Page 1
+![Sales Report Page 1](screenshots/sample-sales-report1.png)
+
+### Report Preview – Page 2
+![Sales Report Page 2](screenshots/sample-sales-report2.png)
+
+[📥 View Full Sales Report (PDF)](reports/sample_sales_report_october_2026.pdf)
