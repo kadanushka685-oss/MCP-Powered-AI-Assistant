@@ -271,3 +271,24 @@ dashboards per region/channel.
 | PDF says reportlab is missing | `pip install reportlab`, or choose CSV |
 | Claude call failed | Check the key in `.env`, the `CLAUDE_MODEL` name and your internet; the app falls back to demo mode |
 | Details of any error | Open `logs/app.log` |
+
+## 📸 Project Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
+
+### 3. Reports
+![Reports](screenshots/reports.png)
+
+### 4. Tools and History
+![Tools and History](screenshots/tools-history.png)
+
+### 5. Integrations
+![Integrations](screenshots/integrations.png)
+
+## 📄 Sample Sales Report
+
+[View Sample Sales Report (PDF)](reports/sample_sales_report_october_2026.pdf)
